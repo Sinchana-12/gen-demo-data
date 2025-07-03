@@ -1,0 +1,1748 @@
+[
+  {
+    "schema_version": "1",
+    "key": "3e2eb37a-fffb-4fb0-a82b-7dc9424d72a2",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf29e04a6c318938015f1"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Jan 29 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf29e04a6c318938015f1",
+      "size": 166123,
+      "upload_time": {
+        "$date": "2025-06-25T16:37:45.223323Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "afb44db8-b61b-4691-9711-2f700ae88734",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf29f04a6c31893801620"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Dec 18 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf29f04a6c31893801620",
+      "size": 581792,
+      "upload_time": {
+        "$date": "2025-06-28T15:04:25.935276Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "d8a596e3-0623-4186-8d8f-2de7b2309caf",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf29f04a6c31893801620"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Aug 10 - 2022.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf29f04a6c31893801620",
+      "size": 619907,
+      "upload_time": {
+        "$date": "2025-03-12T13:17:06.590705Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "348c493e-6a24-4185-b0f1-66485f840e12",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf29f04a6c31893801620"
+    },
+    "metadata": {
+      "originalname": "Report Tue, Jan 28 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf29f04a6c31893801620",
+      "size": 919978,
+      "upload_time": {
+        "$date": "2025-04-13T17:23:52.288174Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "6e42f217-f847-4c0f-b3a4-024e53bc4337",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf29f04a6c31893801620"
+    },
+    "metadata": {
+      "originalname": "Report Sat, Nov 23 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf29f04a6c31893801620",
+      "size": 581457,
+      "upload_time": {
+        "$date": "2025-04-19T15:53:42.004255Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "f03202c9-cca3-4fa0-9e3a-c2b157cd307b",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf29f04a6c31893801620"
+    },
+    "metadata": {
+      "originalname": "Report Thu, Apr 10 - 2025.jpg",
+      "mimetype": "image/jpeg",
+      "patient_id": "685cf29f04a6c31893801620",
+      "size": 134323,
+      "upload_time": {
+        "$date": "2025-01-17T13:33:46.719019Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "05fa17a4-0671-493e-93e4-a0f632d515fb",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf29f04a6c31893801620"
+    },
+    "metadata": {
+      "originalname": "Report Mon, Feb 12 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf29f04a6c31893801620",
+      "size": 444463,
+      "upload_time": {
+        "$date": "2025-04-17T10:35:53.289267Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "f065f403-be49-417b-8a09-2fb98814a285",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf29f04a6c31893801620"
+    },
+    "metadata": {
+      "originalname": "Report Fri, Oct 04 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf29f04a6c31893801620",
+      "size": 1521489,
+      "upload_time": {
+        "$date": "2025-01-10T10:51:45.944434Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "2c19e966-b107-4994-8aca-bd02cbf700ed",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf29f04a6c31893801620"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Jan 29 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf29f04a6c31893801620",
+      "size": 166123,
+      "upload_time": {
+        "$date": "2025-03-05T10:54:50.815249Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "70098b13-f920-4ec1-b3fb-99bdc4caeb71",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a004a6c3189380164f"
+    },
+    "metadata": {
+      "originalname": "Report Fri, Oct 04 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a004a6c3189380164f",
+      "size": 1521489,
+      "upload_time": {
+        "$date": "2025-06-11T10:19:36.430585Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "67efe1b1-1c71-42ec-8cea-88b0107e8b62",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a004a6c3189380164f"
+    },
+    "metadata": {
+      "originalname": "Report Sat, Nov 23 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a004a6c3189380164f",
+      "size": 581457,
+      "upload_time": {
+        "$date": "2025-05-29T13:24:04.264800Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "a427e2d0-d965-445d-a08a-efe19993afe4",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a104a6c3189380167e"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Jan 29 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a104a6c3189380167e",
+      "size": 166123,
+      "upload_time": {
+        "$date": "2025-01-03T15:00:57.877769Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "f47948eb-57b9-4cf6-87d6-12ceaea69662",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a104a6c3189380167e"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Aug 10 - 2022.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a104a6c3189380167e",
+      "size": 619907,
+      "upload_time": {
+        "$date": "2025-01-04T08:12:22.538483Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "a7e4b306-5bf7-4b1a-a14c-a26b9991493f",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a104a6c3189380167e"
+    },
+    "metadata": {
+      "originalname": "Report Thu, Apr 10 - 2025.jpg",
+      "mimetype": "image/jpeg",
+      "patient_id": "685cf2a104a6c3189380167e",
+      "size": 134323,
+      "upload_time": {
+        "$date": "2025-02-09T10:04:39.182211Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "9e13d0dd-0cfe-444e-9bc7-bef24457e1e4",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a104a6c3189380167e"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Dec 18 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a104a6c3189380167e",
+      "size": 581792,
+      "upload_time": {
+        "$date": "2025-02-18T11:55:59.765368Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "0f91180f-1190-42b2-a292-0493bc6fcca4",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a104a6c318938016ad"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Dec 18 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a104a6c318938016ad",
+      "size": 581792,
+      "upload_time": {
+        "$date": "2025-02-19T11:16:10.414679Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "7c1caca0-1e25-4a0e-9630-780188961c01",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a104a6c318938016ad"
+    },
+    "metadata": {
+      "originalname": "Report Fri, Oct 04 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a104a6c318938016ad",
+      "size": 1521489,
+      "upload_time": {
+        "$date": "2025-01-09T12:02:33.028212Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "5931cfc6-c19f-4b11-8174-428e4e6ad494",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a104a6c318938016ad"
+    },
+    "metadata": {
+      "originalname": "Report Tue, Feb 18 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a104a6c318938016ad",
+      "size": 461535,
+      "upload_time": {
+        "$date": "2025-05-22T18:16:08.899507Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "1e8f20fd-0687-4695-a3d9-13d98a9c9881",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a104a6c318938016ad"
+    },
+    "metadata": {
+      "originalname": "Report Mon, Feb 12 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a104a6c318938016ad",
+      "size": 444463,
+      "upload_time": {
+        "$date": "2025-01-22T16:02:19.515526Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "605950d0-44ee-4f70-b0ee-7b756c38fe61",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a104a6c318938016ad"
+    },
+    "metadata": {
+      "originalname": "Report Sat, Nov 23 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a104a6c318938016ad",
+      "size": 581457,
+      "upload_time": {
+        "$date": "2025-01-31T08:17:25.202771Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "5587ccfc-6bee-4d64-b6d5-65f622591ab2",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a104a6c318938016ad"
+    },
+    "metadata": {
+      "originalname": "Report Thu, Apr 10 - 2025.jpg",
+      "mimetype": "image/jpeg",
+      "patient_id": "685cf2a104a6c318938016ad",
+      "size": 134323,
+      "upload_time": {
+        "$date": "2025-07-01T11:15:37.864897Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "d6ae6edd-67cb-4d17-80af-b2c252ffc34f",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a104a6c318938016ad"
+    },
+    "metadata": {
+      "originalname": "Report Fri, Oct 11 - 2024.jpg",
+      "mimetype": "image/jpeg",
+      "patient_id": "685cf2a104a6c318938016ad",
+      "size": 121697,
+      "upload_time": {
+        "$date": "2025-04-08T13:05:50.433786Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "98c53442-5b91-4220-a0e3-cbc40d87592f",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a304a6c318938016dc"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Jan 29 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a304a6c318938016dc",
+      "size": 166123,
+      "upload_time": {
+        "$date": "2025-04-22T16:16:30.996860Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "4783fd00-4069-4fb8-952b-4c62be50efd1",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a304a6c318938016dc"
+    },
+    "metadata": {
+      "originalname": "Report Fri, Oct 04 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a304a6c318938016dc",
+      "size": 1521489,
+      "upload_time": {
+        "$date": "2025-04-16T15:33:05.596977Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "10147bb5-5a07-4d66-9740-921055b36f45",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a304a6c318938016dc"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Dec 18 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a304a6c318938016dc",
+      "size": 581792,
+      "upload_time": {
+        "$date": "2025-01-15T15:20:50.503337Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "30e0aca0-d468-41d4-b2d6-a50d7bc129f1",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a304a6c318938016dc"
+    },
+    "metadata": {
+      "originalname": "Report Thu, Apr 10 - 2025.jpg",
+      "mimetype": "image/jpeg",
+      "patient_id": "685cf2a304a6c318938016dc",
+      "size": 134323,
+      "upload_time": {
+        "$date": "2025-05-28T12:14:22.174644Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "8948c629-c16e-4f35-8a21-fd1c11baffbf",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a304a6c318938016dc"
+    },
+    "metadata": {
+      "originalname": "Report Sat, Nov 23 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a304a6c318938016dc",
+      "size": 581457,
+      "upload_time": {
+        "$date": "2025-06-27T17:51:42.734923Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "d5ecd99a-7f72-4644-91b0-b16bcba47921",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a304a6c318938016dc"
+    },
+    "metadata": {
+      "originalname": "Report Tue, Feb 18 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a304a6c318938016dc",
+      "size": 461535,
+      "upload_time": {
+        "$date": "2025-06-23T13:54:42.465983Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "f03c77d6-d923-4f2c-8c05-b9f817da4328",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a304a6c3189380170b"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Dec 18 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a304a6c3189380170b",
+      "size": 581792,
+      "upload_time": {
+        "$date": "2025-05-23T17:57:20.134571Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "1e79fdfb-94e4-4007-a956-3c9c996102d4",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a304a6c3189380170b"
+    },
+    "metadata": {
+      "originalname": "Report Mon, Feb 12 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a304a6c3189380170b",
+      "size": 444463,
+      "upload_time": {
+        "$date": "2025-06-15T08:46:48.819303Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "777db4f3-52a9-492e-8de4-ac0ac55b759a",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a304a6c3189380170b"
+    },
+    "metadata": {
+      "originalname": "Report Fri, Oct 04 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a304a6c3189380170b",
+      "size": 1521489,
+      "upload_time": {
+        "$date": "2025-02-20T08:04:18.429765Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "76697d8a-33f6-4e49-8fbc-8019bf0461ff",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a504a6c31893801743"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Dec 18 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a504a6c31893801743",
+      "size": 581792,
+      "upload_time": {
+        "$date": "2025-04-13T12:43:41.283103Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "489cbbe8-9ce8-4860-ae3b-98501b7fa59e",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a504a6c31893801743"
+    },
+    "metadata": {
+      "originalname": "Report Fri, Oct 11 - 2024.jpg",
+      "mimetype": "image/jpeg",
+      "patient_id": "685cf2a504a6c31893801743",
+      "size": 121697,
+      "upload_time": {
+        "$date": "2025-04-23T12:39:42.913592Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "89b2fcec-a1c9-4ade-b490-19614d19b8f7",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a504a6c31893801743"
+    },
+    "metadata": {
+      "originalname": "Report Mon, Feb 12 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a504a6c31893801743",
+      "size": 444463,
+      "upload_time": {
+        "$date": "2025-04-05T13:54:10.488767Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "2552c511-6b92-4dda-afc7-d55435124c6a",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a504a6c31893801743"
+    },
+    "metadata": {
+      "originalname": "Report Tue, Feb 18 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a504a6c31893801743",
+      "size": 461535,
+      "upload_time": {
+        "$date": "2025-04-19T13:30:30.167595Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "e4a43512-bb22-42aa-a3ad-012bbefedc59",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a504a6c31893801743"
+    },
+    "metadata": {
+      "originalname": "Report Sat, Nov 23 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a504a6c31893801743",
+      "size": 581457,
+      "upload_time": {
+        "$date": "2025-04-16T18:19:49.890760Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "74ed6ea7-4461-4c04-a6c4-af394cbc7df4",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a504a6c31893801743"
+    },
+    "metadata": {
+      "originalname": "Report Fri, Oct 04 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a504a6c31893801743",
+      "size": 1521489,
+      "upload_time": {
+        "$date": "2025-03-07T15:18:19.629402Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "4cbdc623-19ec-4e9c-830d-6e4e40fd841c",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a504a6c31893801743"
+    },
+    "metadata": {
+      "originalname": "Report Thu, Apr 10 - 2025.jpg",
+      "mimetype": "image/jpeg",
+      "patient_id": "685cf2a504a6c31893801743",
+      "size": 134323,
+      "upload_time": {
+        "$date": "2025-03-29T16:49:20.565747Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "a68a0b4a-43e1-4b7c-967e-8fcb5c90f45e",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a504a6c31893801743"
+    },
+    "metadata": {
+      "originalname": "Report Tue, Jan 28 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a504a6c31893801743",
+      "size": 919978,
+      "upload_time": {
+        "$date": "2025-01-18T17:59:41.133667Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "a861e3d7-3889-4092-9a55-911641f85926",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a604a6c31893801772"
+    },
+    "metadata": {
+      "originalname": "Report Sat, Nov 23 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a604a6c31893801772",
+      "size": 581457,
+      "upload_time": {
+        "$date": "2025-06-23T10:26:13.938130Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "eb53acfc-efcd-4a01-ba24-df186c7b65a7",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a604a6c31893801772"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Dec 18 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a604a6c31893801772",
+      "size": 581792,
+      "upload_time": {
+        "$date": "2025-01-19T13:40:47.639094Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "a0a37521-95c9-4767-87da-c6bd90cc5ab9",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a604a6c31893801772"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Jan 29 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a604a6c31893801772",
+      "size": 166123,
+      "upload_time": {
+        "$date": "2025-06-12T18:01:58.253318Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "5c963b18-3435-4169-b064-02022891fa04",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a604a6c31893801772"
+    },
+    "metadata": {
+      "originalname": "Report Fri, Oct 11 - 2024.jpg",
+      "mimetype": "image/jpeg",
+      "patient_id": "685cf2a604a6c31893801772",
+      "size": 121697,
+      "upload_time": {
+        "$date": "2025-03-21T12:44:51.934748Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "ca970f11-f1d4-4983-90a3-64cd62591835",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a604a6c318938017a1"
+    },
+    "metadata": {
+      "originalname": "Report Sat, Nov 23 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a604a6c318938017a1",
+      "size": 581457,
+      "upload_time": {
+        "$date": "2025-03-26T11:31:52.496273Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "77afac63-c280-48e3-8767-3963c6b63295",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a704a6c318938017d0"
+    },
+    "metadata": {
+      "originalname": "Report Mon, Feb 12 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a704a6c318938017d0",
+      "size": 444463,
+      "upload_time": {
+        "$date": "2025-02-15T12:48:39.140900Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "7ad7cf2e-cfcd-482b-b5da-ff64da9df19d",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a704a6c318938017d0"
+    },
+    "metadata": {
+      "originalname": "Report Fri, Oct 11 - 2024.jpg",
+      "mimetype": "image/jpeg",
+      "patient_id": "685cf2a704a6c318938017d0",
+      "size": 121697,
+      "upload_time": {
+        "$date": "2025-02-07T10:15:27.805385Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "917c6966-66e3-4d97-8cb9-41635eea1ccd",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a804a6c318938017ff"
+    },
+    "metadata": {
+      "originalname": "Report Sat, Nov 23 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a804a6c318938017ff",
+      "size": 581457,
+      "upload_time": {
+        "$date": "2025-02-04T12:49:29.402608Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "edc59002-566f-4e0c-bc13-c4af2108f921",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a804a6c318938017ff"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Aug 10 - 2022.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a804a6c318938017ff",
+      "size": 619907,
+      "upload_time": {
+        "$date": "2025-01-25T12:54:25.080679Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "d15f46aa-3942-49d1-93ca-e25c1488e3b6",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a804a6c318938017ff"
+    },
+    "metadata": {
+      "originalname": "Report Tue, Feb 18 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a804a6c318938017ff",
+      "size": 461535,
+      "upload_time": {
+        "$date": "2025-06-29T09:21:14.802205Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "0cd46267-ac8c-4368-b45d-af5c4ecfe9fe",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a804a6c318938017ff"
+    },
+    "metadata": {
+      "originalname": "Report Fri, Oct 11 - 2024.jpg",
+      "mimetype": "image/jpeg",
+      "patient_id": "685cf2a804a6c318938017ff",
+      "size": 121697,
+      "upload_time": {
+        "$date": "2025-06-13T15:25:50.500444Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "7cecc5f4-df54-4a78-9abc-f32c5431d4dc",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a804a6c318938017ff"
+    },
+    "metadata": {
+      "originalname": "Report Fri, Oct 04 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a804a6c318938017ff",
+      "size": 1521489,
+      "upload_time": {
+        "$date": "2025-01-16T08:56:24.094118Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "3bba3161-5108-4759-a7eb-11392bf6d7e2",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a804a6c318938017ff"
+    },
+    "metadata": {
+      "originalname": "Report Thu, Apr 10 - 2025.jpg",
+      "mimetype": "image/jpeg",
+      "patient_id": "685cf2a804a6c318938017ff",
+      "size": 134323,
+      "upload_time": {
+        "$date": "2025-01-27T16:20:21.000585Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "e0fb637c-797f-486d-8f9e-707df557df72",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a904a6c3189380182e"
+    },
+    "metadata": {
+      "originalname": "Report Thu, Apr 10 - 2025.jpg",
+      "mimetype": "image/jpeg",
+      "patient_id": "685cf2a904a6c3189380182e",
+      "size": 134323,
+      "upload_time": {
+        "$date": "2025-04-05T14:43:58.610364Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "035d65a5-1aa1-4ac1-84b7-c2f6b3c4c62a",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a904a6c3189380182e"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Aug 10 - 2022.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a904a6c3189380182e",
+      "size": 619907,
+      "upload_time": {
+        "$date": "2025-03-23T14:45:43.191841Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "b36ba10d-aa2c-4a30-b33d-85a95fd6b7aa",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a904a6c3189380182e"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Jan 29 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a904a6c3189380182e",
+      "size": 166123,
+      "upload_time": {
+        "$date": "2025-06-30T12:14:17.923681Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "8be3b270-3183-4127-88b5-793146ed8e1b",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a904a6c3189380182e"
+    },
+    "metadata": {
+      "originalname": "Report Fri, Oct 04 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a904a6c3189380182e",
+      "size": 1521489,
+      "upload_time": {
+        "$date": "2025-03-15T12:26:57.572114Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "26ccb8bb-6361-4eca-8b81-cdcd34bd18fe",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a904a6c3189380182e"
+    },
+    "metadata": {
+      "originalname": "Report Sat, Nov 23 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a904a6c3189380182e",
+      "size": 581457,
+      "upload_time": {
+        "$date": "2025-03-20T17:25:55.558129Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "20bd5a33-c820-4af5-a78e-757e83a99e68",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a904a6c3189380182e"
+    },
+    "metadata": {
+      "originalname": "Report Tue, Jan 28 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a904a6c3189380182e",
+      "size": 919978,
+      "upload_time": {
+        "$date": "2025-05-03T18:34:49.276627Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "08b6f67a-ba68-42b2-8a86-d7cd7305794c",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a904a6c3189380182e"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Dec 18 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2a904a6c3189380182e",
+      "size": 581792,
+      "upload_time": {
+        "$date": "2025-01-03T08:42:03.049502Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "9055019d-93b1-41e4-9aec-f9d5cc7d30e8",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2a904a6c3189380182e"
+    },
+    "metadata": {
+      "originalname": "Report Fri, Oct 11 - 2024.jpg",
+      "mimetype": "image/jpeg",
+      "patient_id": "685cf2a904a6c3189380182e",
+      "size": 121697,
+      "upload_time": {
+        "$date": "2025-01-14T10:17:05.682445Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "b490a89b-e71d-439c-9066-599753c3887b",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2aa04a6c3189380185d"
+    },
+    "metadata": {
+      "originalname": "Report Thu, Apr 10 - 2025.jpg",
+      "mimetype": "image/jpeg",
+      "patient_id": "685cf2aa04a6c3189380185d",
+      "size": 134323,
+      "upload_time": {
+        "$date": "2025-04-28T12:40:41.274263Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "acf1ce76-607b-48f3-8306-aaf6bf1a1643",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2aa04a6c3189380185d"
+    },
+    "metadata": {
+      "originalname": "Report Tue, Feb 18 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2aa04a6c3189380185d",
+      "size": 461535,
+      "upload_time": {
+        "$date": "2025-05-11T18:20:57.888011Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "348130db-2a14-4245-9070-3fc5858f131e",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2aa04a6c3189380188c"
+    },
+    "metadata": {
+      "originalname": "Report Sat, Nov 23 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2aa04a6c3189380188c",
+      "size": 581457,
+      "upload_time": {
+        "$date": "2025-01-31T10:29:53.592683Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "dae59412-9767-4cc3-9658-5f55453544a3",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2aa04a6c3189380188c"
+    },
+    "metadata": {
+      "originalname": "Report Fri, Oct 11 - 2024.jpg",
+      "mimetype": "image/jpeg",
+      "patient_id": "685cf2aa04a6c3189380188c",
+      "size": 121697,
+      "upload_time": {
+        "$date": "2025-06-30T12:54:44.257692Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "a73c6ebd-3610-4ed4-bf59-1403ae2cb957",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2aa04a6c3189380188c"
+    },
+    "metadata": {
+      "originalname": "Report Thu, Apr 10 - 2025.jpg",
+      "mimetype": "image/jpeg",
+      "patient_id": "685cf2aa04a6c3189380188c",
+      "size": 134323,
+      "upload_time": {
+        "$date": "2025-06-04T16:25:39.813274Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "005a431e-e57d-4712-9b79-cbb10805cb0b",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2aa04a6c3189380188c"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Jan 29 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2aa04a6c3189380188c",
+      "size": 166123,
+      "upload_time": {
+        "$date": "2025-03-27T10:45:23.437810Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "d2b9e253-5556-40a3-a70e-b879b81e1282",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2aa04a6c3189380188c"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Dec 18 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2aa04a6c3189380188c",
+      "size": 581792,
+      "upload_time": {
+        "$date": "2025-01-19T18:26:11.132915Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "a145cfbe-8e18-4764-b126-2ce70a07e000",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2aa04a6c3189380188c"
+    },
+    "metadata": {
+      "originalname": "Report Tue, Feb 18 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2aa04a6c3189380188c",
+      "size": 461535,
+      "upload_time": {
+        "$date": "2025-04-05T18:11:29.861690Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "ed99ce08-3a52-4879-b733-ea9cb3ffae4f",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2aa04a6c3189380188c"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Aug 10 - 2022.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2aa04a6c3189380188c",
+      "size": 619907,
+      "upload_time": {
+        "$date": "2025-02-19T14:59:02.569704Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "5c98babf-7690-41ca-a2f3-0a7c8edb836b",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2aa04a6c3189380188c"
+    },
+    "metadata": {
+      "originalname": "Report Tue, Jan 28 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2aa04a6c3189380188c",
+      "size": 919978,
+      "upload_time": {
+        "$date": "2025-06-10T08:36:48.279847Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "156beffc-671f-4ac1-8876-f82d0742024f",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2aa04a6c3189380188c"
+    },
+    "metadata": {
+      "originalname": "Report Mon, Feb 12 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2aa04a6c3189380188c",
+      "size": 444463,
+      "upload_time": {
+        "$date": "2025-02-03T18:14:05.018455Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "3d53fc1d-1cb9-4c07-b836-212c01dd6b19",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2aa04a6c3189380188c"
+    },
+    "metadata": {
+      "originalname": "Report Fri, Oct 04 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2aa04a6c3189380188c",
+      "size": 1521489,
+      "upload_time": {
+        "$date": "2025-06-28T09:09:02.672557Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "edc3facb-4a95-418e-8ab3-56eba96eab5d",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2ab04a6c318938018bb"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Dec 18 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2ab04a6c318938018bb",
+      "size": 581792,
+      "upload_time": {
+        "$date": "2025-05-23T13:39:20.549797Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "b5c02f10-a3ad-4288-801f-d9a120c8b900",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2ab04a6c318938018bb"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Aug 10 - 2022.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2ab04a6c318938018bb",
+      "size": 619907,
+      "upload_time": {
+        "$date": "2025-04-27T15:17:20.270243Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "c619adec-f8ab-4ed4-8951-fa51fd09e847",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2ab04a6c318938018bb"
+    },
+    "metadata": {
+      "originalname": "Report Sat, Nov 23 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2ab04a6c318938018bb",
+      "size": 581457,
+      "upload_time": {
+        "$date": "2025-06-20T18:46:14.935547Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "efda0ec9-d446-4362-bf7c-afdef1b72b77",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2ab04a6c318938018bb"
+    },
+    "metadata": {
+      "originalname": "Report Tue, Feb 18 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2ab04a6c318938018bb",
+      "size": 461535,
+      "upload_time": {
+        "$date": "2025-03-22T13:13:40.614690Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "d650ca3f-5abf-42a3-98c1-5cc2d912eebe",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2ac04a6c318938018ea"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Jan 29 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2ac04a6c318938018ea",
+      "size": 166123,
+      "upload_time": {
+        "$date": "2025-03-12T15:19:09.266979Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "fc1d5c02-7663-49e8-8b3a-03d847d71412",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2ac04a6c318938018ea"
+    },
+    "metadata": {
+      "originalname": "Report Tue, Jan 28 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2ac04a6c318938018ea",
+      "size": 919978,
+      "upload_time": {
+        "$date": "2025-05-11T12:26:18.905224Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "1dcebac3-84f6-4776-a933-2ba2b7c6daa7",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2ac04a6c318938018ea"
+    },
+    "metadata": {
+      "originalname": "Report Tue, Feb 18 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2ac04a6c318938018ea",
+      "size": 461535,
+      "upload_time": {
+        "$date": "2025-03-24T14:20:08.632473Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "7ed0584c-b446-40fa-b42e-0af710836b46",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2ac04a6c318938018ea"
+    },
+    "metadata": {
+      "originalname": "Report Mon, Feb 12 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2ac04a6c318938018ea",
+      "size": 444463,
+      "upload_time": {
+        "$date": "2025-03-06T09:46:45.325693Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "7d2d8252-0f6b-4b57-aa86-ea5bf2a4f9ca",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2ac04a6c318938018ea"
+    },
+    "metadata": {
+      "originalname": "Report Fri, Oct 04 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2ac04a6c318938018ea",
+      "size": 1521489,
+      "upload_time": {
+        "$date": "2025-01-07T14:55:26.993848Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "d304bd7a-f6cd-49fa-87d9-8be02ee6620a",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2ac04a6c318938018ea"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Dec 18 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2ac04a6c318938018ea",
+      "size": 581792,
+      "upload_time": {
+        "$date": "2025-03-04T17:43:18.930674Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "b4cd6429-e83c-43e7-a2b6-519924b71462",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2ac04a6c318938018ea"
+    },
+    "metadata": {
+      "originalname": "Report Fri, Oct 11 - 2024.jpg",
+      "mimetype": "image/jpeg",
+      "patient_id": "685cf2ac04a6c318938018ea",
+      "size": 121697,
+      "upload_time": {
+        "$date": "2025-06-30T11:44:55.569445Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "800ecc07-bfa7-4030-831f-7bc2ce3ea2df",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2ad04a6c31893801919"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Aug 10 - 2022.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2ad04a6c31893801919",
+      "size": 619907,
+      "upload_time": {
+        "$date": "2025-01-05T12:40:11.148983Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "181393a7-35a7-4172-97b2-106cc92159bd",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2ad04a6c31893801919"
+    },
+    "metadata": {
+      "originalname": "Report Fri, Oct 04 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2ad04a6c31893801919",
+      "size": 1521489,
+      "upload_time": {
+        "$date": "2025-02-17T10:42:36.875318Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "be6ebb63-8e2c-4da2-a2ef-34cdbfd4b077",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2ad04a6c31893801919"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Dec 18 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2ad04a6c31893801919",
+      "size": 581792,
+      "upload_time": {
+        "$date": "2025-03-05T08:39:16.842865Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "f620a432-49a7-4476-831c-9319c8447896",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2ad04a6c31893801919"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Jan 29 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2ad04a6c31893801919",
+      "size": 166123,
+      "upload_time": {
+        "$date": "2025-05-04T16:15:35.547973Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "cfccae62-bbd9-4751-bb55-f3a44f0790a8",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2ad04a6c31893801919"
+    },
+    "metadata": {
+      "originalname": "Report Sat, Nov 23 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2ad04a6c31893801919",
+      "size": 581457,
+      "upload_time": {
+        "$date": "2025-05-13T08:56:07.166855Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "0d2310c4-bbc5-4b86-b636-c6fa9f2b83a3",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2ad04a6c31893801919"
+    },
+    "metadata": {
+      "originalname": "Report Tue, Feb 18 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2ad04a6c31893801919",
+      "size": 461535,
+      "upload_time": {
+        "$date": "2025-06-04T14:28:56.846234Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "01e6c102-4d73-49fe-94e9-6ca42cb26eab",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2ad04a6c31893801919"
+    },
+    "metadata": {
+      "originalname": "Report Mon, Feb 12 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2ad04a6c31893801919",
+      "size": 444463,
+      "upload_time": {
+        "$date": "2025-05-17T14:20:21.565811Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "3973502c-e411-44db-bd50-df2bb798071b",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2ad04a6c31893801919"
+    },
+    "metadata": {
+      "originalname": "Report Tue, Jan 28 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2ad04a6c31893801919",
+      "size": 919978,
+      "upload_time": {
+        "$date": "2025-01-22T12:10:26.235482Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "4ed53b70-b51f-4d5b-aa65-a8220f04fb85",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2e704a6c31893801948"
+    },
+    "metadata": {
+      "originalname": "Report Fri, Oct 11 - 2024.jpg",
+      "mimetype": "image/jpeg",
+      "patient_id": "685cf2e704a6c31893801948",
+      "size": 121697,
+      "upload_time": {
+        "$date": "2025-05-27T10:36:13.898278Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "a3a6d2bd-ec58-471f-9192-75715afb7d34",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2e704a6c31893801948"
+    },
+    "metadata": {
+      "originalname": "Report Sat, Nov 23 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2e704a6c31893801948",
+      "size": 581457,
+      "upload_time": {
+        "$date": "2025-04-01T10:20:04.480979Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "0de674a9-c3e7-4e20-92a8-ceb51e9c799e",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2e704a6c31893801948"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Aug 10 - 2022.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2e704a6c31893801948",
+      "size": 619907,
+      "upload_time": {
+        "$date": "2025-06-06T08:30:57.174450Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "23218e9b-c4d3-4181-896e-74dd5a1a998f",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2e704a6c31893801948"
+    },
+    "metadata": {
+      "originalname": "Report Mon, Feb 12 - 2024.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2e704a6c31893801948",
+      "size": 444463,
+      "upload_time": {
+        "$date": "2025-01-26T12:16:14.904691Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "333ed3f4-4939-4f17-a77e-af2b16522496",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2e704a6c31893801948"
+    },
+    "metadata": {
+      "originalname": "Report Tue, Feb 18 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2e704a6c31893801948",
+      "size": 461535,
+      "upload_time": {
+        "$date": "2025-05-29T12:18:51.650717Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "schema_version": "1",
+    "key": "bdd3e0db-6494-409d-a5d0-3e9ad14bbf50",
+    "bucket": "jano-nexus-uploads-stg2",
+    "patient": {
+      "$oid": "685cf2e704a6c31893801948"
+    },
+    "metadata": {
+      "originalname": "Report Wed, Jan 29 - 2025.pdf",
+      "mimetype": "application/pdf",
+      "patient_id": "685cf2e704a6c31893801948",
+      "size": 166123,
+      "upload_time": {
+        "$date": "2025-01-03T15:03:05.373184Z"
+      }
+    },
+    "__v": 0
+  }
+]

@@ -1,0 +1,39 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Demo Data Generation Project Overview
+
+This project generates demo data for healthcare systems, specifically focused on creating patients, organizations, users, and medical entities for different healthcare providers.
+
+## Project Structure
+
+The project is organized into three main contexts:
+
+### General Context (`general/`)
+- **Purpose**: Generic healthcare data generation
+- **Key Files**: 
+  - [create_patients.json](mdc:general/data/create_patients.json) - Patient demographic data
+  - [create_patients_script.py](mdc:general/scripts/create_patients_script.py) - Main patient creation script
+  - [patient_histories_with_tags.json](mdc:general/data/patient_histories_with_tags.json) - Medical history data
+- **API Target**: Jano Health staging environment
+
+### SMF Context (`smf/`)
+- **Purpose**: Sundaram Medical Foundation specific data
+- **Key Files**:
+  - [create_smf_org.json](mdc:smf/data/create_smf_org.json) - SMF organization configuration
+  - [create_smf_users.json](mdc:smf/data/create_smf_users.json) - SMF user data
+- **Specializations**: Nephrology, Cardiology, Oncology, Neurology
+
+### Sparsh Context (`sparsh/`)
+- **Purpose**: Sparsh Hospitals specific data  
+- **Key Files**:
+  - [create_sparsh_org.json](mdc:sparsh/data/create_sparsh_org.json) - Sparsh organization configuration
+  - [create_sparsh_teams.json](mdc:sparsh/data/create_sparsh_teams.json) - Team structures
+  - [create_sparsh_users.json](mdc:sparsh/data/create_sparsh_users.json) - User data
+- **Focus**: Dialysis centers and nephrology services
+
+## Documentation
+
+Track project progress and tasks in [tasks.md](mdc:docs/tasks.md).

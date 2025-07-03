@@ -1,0 +1,233 @@
+[
+  {
+    "name": "Dr. Rajesh Kumar",
+    "gender": "male",
+    "phone": "+919876543210",
+    "email": "rajesh.kumar@smf.org",
+    "dob": "15-03-1985",
+    "user_type": "doctor",
+    "auth_handles": [
+      {
+        "id_provider": "google",
+        "auth_id": "rajesh.kumar@smf.org"
+      }
+    ],
+    "teams": [
+      {
+        "team_id": "685c18f504a6c31893801430",
+        "designation": "Doctor",
+        "role": "doctor"
+      }
+    ]
+  },
+  {
+    "name": "Priya Nair",
+    "gender": "female",
+    "phone": "+919765432109",
+    "email": "priya.nair@smf.org",
+    "dob": "22-07-1988",
+    "user_type": "staff",
+    "auth_handles": [
+      {
+        "id_provider": "google",
+        "auth_id": "priya.nair@smf.org"
+      }
+    ],
+    "teams": [
+      {
+        "team_id": "685c18f504a6c31893801430",
+        "designation": "Incharge",
+        "role": "dc_incharge"
+      }
+    ]
+  },
+  {
+    "name": "Arjun Menon",
+    "gender": "male",
+    "phone": "+919654321098",
+    "email": "arjun.menon@smf.org",
+    "dob": "08-11-1990",
+    "user_type": "staff",
+    "auth_handles": [
+      {
+        "id_provider": "google",
+        "auth_id": "arjun.menon@smf.org"
+      }
+    ],
+    "teams": [
+      {
+        "team_id": "685c18f504a6c31893801430",
+        "designation": "Senior Staff Nurse",
+        "role": "dc_sr_staff_nurse"
+      }
+    ]
+  },
+  {
+    "name": "Kavitha Rao",
+    "gender": "female",
+    "phone": "+919543210987",
+    "email": "kavitha.rao@smf.org",
+    "dob": "12-05-1992",
+    "user_type": "staff",
+    "auth_handles": [
+      {
+        "id_provider": "google",
+        "auth_id": "kavitha.rao@smf.org"
+      }
+    ],
+    "teams": [
+      {
+        "team_id": "685c18f504a6c31893801430",
+        "designation": "Senior Staff Nurse",
+        "role": "dc_sr_staff_nurse"
+      }
+    ]
+  },
+  {
+    "name": "Suresh Babu K",
+    "gender": "male",
+    "phone": "+919432109876",
+    "email": "suresh.babu@smf.org",
+    "dob": "18-09-1993",
+    "user_type": "staff",
+    "auth_handles": [
+      {
+        "id_provider": "google",
+        "auth_id": "suresh.babu@smf.org"
+      }
+    ],
+    "teams": [
+      {
+        "team_id": "685c18f504a6c31893801430",
+        "designation": "Staff Nurse",
+        "role": "dc_staff_nurse"
+      }
+    ]
+  },
+  {
+    "name": "Deepika Singh",
+    "gender": "female",
+    "phone": "+919321098765",
+    "email": "deepika.singh@smf.org",
+    "dob": "03-02-1994",
+    "user_type": "staff",
+    "auth_handles": [
+      {
+        "id_provider": "google",
+        "auth_id": "deepika.singh@smf.org"
+      }
+    ],
+    "teams": [
+      {
+        "team_id": "685c18f504a6c31893801430",
+        "designation": "Staff Nurse",
+        "role": "dc_staff_nurse"
+      }
+    ]
+  },
+  {
+    "name": "Venkatesh Reddy",
+    "gender": "male",
+    "phone": "+919210987654",
+    "email": "venkatesh.reddy@smf.org",
+    "dob": "27-12-1987",
+    "user_type": "staff",
+    "auth_handles": [
+      {
+        "id_provider": "google",
+        "auth_id": "venkatesh.reddy@smf.org"
+      }
+    ],
+    "teams": [
+      {
+        "team_id": "685c18f504a6c31893801430",
+        "designation": "Senior Technician",
+        "role": "dc_sr_tech"
+      }
+    ]
+  },
+  {
+    "name": "Lakshmi Devi",
+    "gender": "female",
+    "phone": "+919109876543",
+    "email": "lakshmi.devi@smf.org",
+    "dob": "14-06-1991",
+    "user_type": "staff",
+    "auth_handles": [
+      {
+        "id_provider": "google",
+        "auth_id": "lakshmi.devi@smf.org"
+      }
+    ],
+    "teams": [
+      {
+        "team_id": "685c18f504a6c31893801430",
+        "designation": "Technician",
+        "role": "dc_tech"
+      }
+    ]
+  },
+  {
+    "name": "Ravi Shankar",
+    "gender": "male",
+    "phone": "+919098765432",
+    "email": "ravi.shankar@smf.org",
+    "dob": "09-10-1995",
+    "user_type": "staff",
+    "auth_handles": [   
+      {
+        "id_provider": "google",
+        "auth_id": "ravi.shankar@smf.org"
+      }
+    ],
+    "teams": [
+      {
+        "team_id": "685c18f504a6c31893801430",
+        "designation": "Technician",
+        "role": "dc_tech"
+      }
+    ]
+  },
+  {
+    "name": "Anitha Kumari",
+    "gender": "female",
+    "phone": "+919987654321",
+    "email": "anitha.kumari@smf.org",
+    "dob": "25-04-1996",
+    "user_type": "staff",
+    "auth_handles": [
+      {
+        "id_provider": "google",
+        "auth_id": "anitha.kumari@smf.org"
+      }
+    ],
+    "teams": [
+      {
+        "team_id": "685c18f504a6c31893801430",
+        "designation": "Technician",
+        "role": "dc_tech"
+      }
+    ]
+  },
+  {
+    "name": "Manoj Kumar T",
+    "gender": "male",
+    "phone": "+919876540123",
+    "email": "manoj.kumar@smf.org",
+    "dob": "07-01-1989",
+    "user_type": "staff",
+    "auth_handles": [
+      {
+        "id_provider": "google",
+        "auth_id": "manoj.kumar@smf.org"
+      }
+    ],
+    "teams": [
+      {
+        "team_id": "685c18f504a6c31893801430",
+        "designation": "Technician",
+        "role": "dc_tech"
+      }
+    ]
+  }
+] 

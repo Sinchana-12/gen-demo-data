@@ -1,0 +1,50 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# API Configuration and Authentication
+
+## API Endpoints
+Based on [create_patients_script.py](mdc:general/scripts/create_patients_script.py):
+
+- **Base URL**: `https://api-stg2.janohealth.com/ops`
+- **Environment**: Staging (stg2)
+- **Patient Creation**: `POST /patients`
+
+## Authentication
+- **Method**: Bearer Token (JWT)
+- **Header**: `Authorization: Bearer {ACCESS_TOKEN}`
+- **Content-Type**: `application/json`
+
+## Required Parameters
+- **team_id**: Team identifier for patient assignment
+- **org_id**: Organization identifier
+- **Examples**:
+  - SMF Team ID: `685c18f504a6c31893801430`  
+  - SMF Org ID: `685c18f504a6c31893801427`
+
+## Request Structure
+```python
+params = {
+    "team_id": TEAM_ID,
+    "org_id": ORG_ID
+}
+headers = {
+    "Authorization": f"Bearer {ACCESS_TOKEN}",
+    "Content-Type": "application/json"
+}
+response = requests.post(url, json=patient_data, headers=headers, params=params)
+```
+
+## Response Handling
+- **Success**: HTTP 200 with patient ID in response
+- **Error Handling**: Capture HTTP status codes and error details
+- **Rate Limiting**: 0.5 second delay between requests implemented
+
+## Data Flow
+1. Load JSON data files from `data/` directory
+2. Iterate through records with progress tracking
+3. Make API calls with error handling
+4. Save results to output files (created/failed patients)
+5. Generate summary reports

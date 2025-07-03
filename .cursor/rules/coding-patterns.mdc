@@ -1,0 +1,71 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Coding Patterns and Best Practices
+
+## File Organization
+- **Scripts**: Located in `{context}/scripts/` directories
+- **Data**: Located in `{context}/data/` directories  
+- **Naming**: Use snake_case for Python files, descriptive names
+
+## Python Script Structure
+Based on [create_patients_script.py](mdc:general/scripts/create_patients_script.py):
+
+```python
+# 1. Imports
+import json
+import requests
+import time
+
+# 2. Configuration constants
+API_BASE_URL = "..."
+ACCESS_TOKEN = "..."
+TEAM_ID = "..."
+ORG_ID = "..."
+
+# 3. Headers setup
+headers = {
+    "Authorization": f"Bearer {ACCESS_TOKEN}",
+    "Content-Type": "application/json"
+}
+
+# 4. Core functions
+def create_entity(data):
+    """Clear docstring describing function purpose"""
+    # Implementation with error handling
+    
+# 5. Main execution
+def main():
+    # Load data
+    # Process with progress tracking
+    # Handle results
+    # Save output
+
+if __name__ == "__main__":
+    main()
+```
+
+## Error Handling Patterns
+- Always wrap API calls in try-catch blocks
+- Capture both HTTP errors and JSON parsing errors
+- Maintain separate lists for successful and failed operations
+- Provide detailed error messages with context
+
+## Progress Tracking
+- Print total count before starting
+- Show progress with current/total format
+- Use clear success (✅) and failure (❌) indicators
+- Generate summary statistics
+
+## Output Management
+- Save results to JSON files with structured format
+- Include metadata (totals, timestamps)
+- Separate successful and failed records
+- Use descriptive filenames with context
+
+## Rate Limiting
+- Implement delays between API calls (0.5s standard)
+- Consider API rate limits in design
+- Use `time.sleep()` for simple rate limiting

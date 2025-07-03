@@ -1,0 +1,69 @@
+{
+  "name": "Sundaram Medical Foundation",
+  "onboarding_stage": "added",
+  "rating": null,
+  "org_type": {
+    "line_of_business": "hospital",
+    "specialities": [
+      "Cardiology",
+      "Nephrology",
+      "Oncology",
+      "Neurology",
+      "Urology & Andrology",
+      "Orthopedics & Traumatology",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Inpatient Services",
+      "Outpatient Services",
+      "Emergency Medicine",
+      "Dialysis"
+    ]
+  },
+  "parent": null,
+  "departments": [
+    {
+      "name": "Nephrology",
+      "description": "The Department of Nephrology is equipped with state – of – art dialysis equipment and offers dialysis services.",
+      "dept_code": "NEPHRO",
+      "teams": [
+        {
+          "name": "Renal Care Unit",
+          "description": "Specialized team for comprehensive kidney care and dialysis management"
+        }
+      ]
+    }
+  ],
+  "addresses": [
+    {
+      "line1": "9C, 4th Ave, Shanthi Colony, AK Block",
+      "line2": "Anna Nagar",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600040",
+      "location": {
+        "lat": 13.085,
+        "long": 80.215
+      },
+      "type": "registered_office"
+    },
+    {
+      "line1": "SMF Outpatient Services, SP -75, Kambar St",
+      "line2": "Vavin, Mogappair West, Ambattur Industrial Estate",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600058",
+      "location": {
+        "lat": 13.089,
+        "long": 80.181
+      },
+      "type": "branch_address"
+    }
+  ],
+  "org_info": {
+    "founder": "Dr. S. Rangarajan",
+    "contact_person": "",
+    "llc_type": "Not for Profit",
+    "gst": ""
+  }
+} 

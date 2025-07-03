@@ -1,0 +1,38 @@
+{
+  "name": "Sparsh Hospitals Dialysis Center",
+  "onboarding_stage": "pilot",
+  "org_type": {
+    "line_of_business": "hospital",
+    "specialities": "multi",
+    "services": ["dialysis", "nephrology"]
+  },
+  "departments": [
+    {
+      "name": "Nephrology",
+      "description": "Department specializing in renal care, dialysis, and nephrology services.",
+      "dept_code": "NEPHRO"
+    }
+  ],
+  "addresses": [
+    {
+      "line1": "No. 1474/138, International Airport Road, Kogilu Cross",
+      "line2": "",
+      "city": "Yelahanka, Bangalore",
+      "state": "Karnataka",
+      "pincode": "560064",
+      "location": {
+        "lat": null,
+        "long": null
+      },
+      "type": "branch_address"
+    }
+  ],
+  "org_info": {
+    "founder": "Sudarshan",
+    "contact_person": "Lingaraju Nanjappa",
+    "llc_type": "Private Limited",
+    "gst": ""
+  },
+  "rating": null,
+  "schema_version": "2"
+} 

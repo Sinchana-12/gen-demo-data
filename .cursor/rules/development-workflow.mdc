@@ -1,0 +1,58 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Development Workflow
+
+## Task Management
+Track all tasks and progress in [tasks.md](mdc:docs/tasks.md):
+- Use `[x]` for completed tasks
+- Use `[]` for pending tasks  
+- Include specific numbers and targets (e.g., "Create 20 patients")
+
+## Data Generation Workflow
+
+### 1. Organization Setup
+- Create organization using `create_{context}_org.json`
+- Set up departments and teams
+- Configure specializations and services
+
+### 2. User Creation  
+- Generate users with appropriate roles
+- Assign to teams and departments
+- Set up authentication credentials
+
+### 3. Patient Creation
+- Use [create_patients.json](mdc:general/data/create_patients.json) as base data
+- Run [create_patients_script.py](mdc:general/scripts/create_patients_script.py)
+- Monitor success/failure rates
+- Save results to CSV files for tracking
+
+### 4. Medical Data
+- Create patient histories using [patient_histories_with_tags.json](mdc:general/data/patient_histories_with_tags.json)
+- Generate appointments and time slots
+- Create medical sessions and records
+
+## File Naming Conventions
+- **Input Data**: `create_{entity}.json`
+- **Scripts**: `create_{entity}_script.py`  
+- **Output**: `created_{entity}.csv`, `failed_{entity}.csv`
+- **Configuration**: `{entity}_config.json`
+
+## Testing and Validation
+- Test against staging environment first
+- Validate data structure before bulk operations
+- Monitor API response codes and error messages
+- Keep backup of successful operations
+
+## Context-Specific Notes
+- **SMF**: Focus on nephrology and multi-specialty services
+- **Sparsh**: Primarily dialysis and nephrology centers  
+- **General**: Broader healthcare scenarios and use cases
+
+## Data Dependencies
+1. Organization must exist before creating users
+2. Teams must be set up before assigning patients
+3. Users must be created before generating medical records
+4. Follow the hierarchy: Org → Departments → Teams → Users → Patients

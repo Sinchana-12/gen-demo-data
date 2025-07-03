@@ -1,0 +1,784 @@
+{
+  "summary": {
+    "total_parameters": 23,
+    "mapped_parameters": 11,
+    "unmapped_parameters": 12,
+    "unmapped_list": [
+      "Hematocrit",
+      "RDW",
+      "Total Leukocyte Count",
+      "Monocytes",
+      "Eosinophils",
+      "Basophils",
+      "Absolute Neutrophil Count",
+      "Absolute Lymphocyte Count",
+      "Absolute Monocyte Count",
+      "Absolute Eosinophil Count",
+      "Absolute Basophil Count",
+      "Glycated Hemoglobin"
+    ],
+    "patient_id": "677666e8241872e14d9b04c5",
+    "report_id": "67a0ca1d4929e8e245e89003",
+    "generated_on": "2025-07-03T17:26:10.895824Z"
+  },
+  "patientdata_documents": [
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": {
+        "$oid": "65dcbbff3012fd1f2b81ed23"
+      },
+      "parameter_name": "HEMOGLOBIN",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "14.0",
+      "units": "g/dL",
+      "reference_interval": {
+        "low": 13.0,
+        "high": 17.0
+      },
+      "method": "photometric method",
+      "source": {
+        "page_index": 1,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895743Z"
+        }
+      },
+      "schema_version": "2.0"
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": {
+        "$oid": "66b4520e99e0f8155af76bbb"
+      },
+      "parameter_name": "RBC COUNT",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "4.8",
+      "units": "",
+      "reference_interval": {
+        "low": 4.5,
+        "high": 5.5
+      },
+      "method": "coulter principle",
+      "source": {
+        "page_index": 1,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895757Z"
+        }
+      },
+      "schema_version": "2.0"
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": null,
+      "parameter_name": "HEMATOCRIT",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "42.7",
+      "units": "%",
+      "reference_interval": {
+        "low": 40.0,
+        "high": 50.0
+      },
+      "method": "",
+      "source": {
+        "page_index": 1,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895762Z"
+        }
+      },
+      "schema_version": "2.0"
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": {
+        "$oid": "66b99875b24811d93e003516"
+      },
+      "parameter_name": "MCV",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "88.6",
+      "units": "fL",
+      "reference_interval": {
+        "low": 83.0,
+        "high": 101.0
+      },
+      "method": "Derived from RBC Histogram",
+      "source": {
+        "page_index": 1,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895766Z"
+        }
+      },
+      "schema_version": "2.0"
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": {
+        "$oid": "66b99a11f35babdfc3ddff28"
+      },
+      "parameter_name": "MCH",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "29.0",
+      "units": "pg",
+      "reference_interval": {
+        "low": 27.0,
+        "high": 32.0
+      },
+      "method": "Calculated",
+      "source": {
+        "page_index": 1,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895769Z"
+        }
+      },
+      "schema_version": "2.0"
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": {
+        "$oid": "66b99a11f35babdfc3ddff28"
+      },
+      "parameter_name": "MCH",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "32.8",
+      "units": "g/dL",
+      "reference_interval": {
+        "low": 31.5,
+        "high": 34.5
+      },
+      "method": "Calculated",
+      "source": {
+        "page_index": 1,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895772Z"
+        }
+      },
+      "schema_version": "2.0"
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": null,
+      "parameter_name": "RDW",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "13.7",
+      "units": "%",
+      "reference_interval": {
+        "low": 11.6,
+        "high": 14.0
+      },
+      "method": "Derived from RBC Histogram",
+      "source": {
+        "page_index": 1,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895776Z"
+        }
+      },
+      "schema_version": "2.0"
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": null,
+      "parameter_name": "TOTAL LEUKOCYTE COUNT",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "4.7",
+      "units": "",
+      "reference_interval": {
+        "low": 4.0,
+        "high": 10.0
+      },
+      "method": "coulter principle",
+      "source": {
+        "page_index": 1,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895780Z"
+        }
+      },
+      "schema_version": "2.0"
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": {
+        "$oid": "66825b2beaf6c5bb046acf6f"
+      },
+      "parameter_name": "NEUTROPHILS",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "50.0",
+      "units": "%",
+      "reference_interval": {
+        "low": 40.0,
+        "high": 80.0
+      },
+      "method": "",
+      "source": {
+        "page_index": 1,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895783Z"
+        }
+      },
+      "schema_version": "2.0"
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": {
+        "$oid": "65dcbc003012fd1f2b81ed34"
+      },
+      "parameter_name": "LYMPHOCYTES",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "38.0",
+      "units": "%",
+      "reference_interval": {
+        "low": 20.0,
+        "high": 40.0
+      },
+      "method": "",
+      "source": {
+        "page_index": 1,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895785Z"
+        }
+      },
+      "schema_version": "2.0"
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": null,
+      "parameter_name": "MONOCYTES",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "6.0",
+      "units": "%",
+      "reference_interval": {
+        "low": 2.0,
+        "high": 10.0
+      },
+      "method": "",
+      "source": {
+        "page_index": 1,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895788Z"
+        }
+      },
+      "schema_version": "2.0"
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": null,
+      "parameter_name": "EOSINOPHILS",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "6.0",
+      "units": "%",
+      "reference_interval": {
+        "low": 1.0,
+        "high": 6.0
+      },
+      "method": "",
+      "source": {
+        "page_index": 1,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895791Z"
+        }
+      },
+      "schema_version": "2.0"
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": null,
+      "parameter_name": "BASOPHILS",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "0.0",
+      "units": "%",
+      "reference_interval": {
+        "low": 0.0,
+        "high": 1.0
+      },
+      "method": "",
+      "source": {
+        "page_index": 1,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895793Z"
+        }
+      },
+      "schema_version": "2.0"
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": null,
+      "parameter_name": "ABSOLUTE NEUTROPHIL COUNT",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "2.35",
+      "units": "",
+      "reference_interval": {
+        "low": 2.0,
+        "high": 7.0
+      },
+      "method": "VCSn/Calculated",
+      "source": {
+        "page_index": 1,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895796Z"
+        }
+      },
+      "schema_version": "2.0"
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": null,
+      "parameter_name": "ABSOLUTE LYMPHOCYTE COUNT",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "1.79",
+      "units": "",
+      "reference_interval": {
+        "low": 1.0,
+        "high": 3.0
+      },
+      "method": "VCSn/Calculated",
+      "source": {
+        "page_index": 1,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895799Z"
+        }
+      },
+      "schema_version": "2.0"
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": null,
+      "parameter_name": "ABSOLUTE MONOCYTE COUNT",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "0.28",
+      "units": "",
+      "reference_interval": {
+        "low": 0.2,
+        "high": 1.0
+      },
+      "method": "",
+      "source": {
+        "page_index": 1,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895802Z"
+        }
+      },
+      "schema_version": "2.0"
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": null,
+      "parameter_name": "ABSOLUTE EOSINOPHIL COUNT",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "0.28",
+      "units": "",
+      "reference_interval": {
+        "low": 0.02,
+        "high": 0.5
+      },
+      "method": "VCSn/Calculated",
+      "source": {
+        "page_index": 1,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895804Z"
+        }
+      },
+      "schema_version": "2.0"
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": null,
+      "parameter_name": "ABSOLUTE BASOPHIL COUNT",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "0.00",
+      "units": "",
+      "reference_interval": {
+        "low": 0.02,
+        "high": 0.1
+      },
+      "method": "",
+      "source": {
+        "page_index": 1,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895808Z"
+        }
+      },
+      "schema_version": "2.0"
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": {
+        "$oid": "65dcbc003012fd1f2b81ed39"
+      },
+      "parameter_name": "PLATELET COUNT",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "283",
+      "units": "",
+      "reference_interval": {
+        "low": 150.0,
+        "high": 410.0
+      },
+      "method": "coulter principle",
+      "source": {
+        "page_index": 1,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895811Z"
+        }
+      },
+      "schema_version": "2.0"
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": {
+        "$oid": "66b99ebe7936a32cd05c03c5"
+      },
+      "parameter_name": "MPV",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "7.3",
+      "units": "L",
+      "reference_interval": {
+        "low": 7.5,
+        "high": 11.5
+      },
+      "method": "",
+      "source": {
+        "page_index": 1,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895813Z"
+        }
+      },
+      "schema_version": "2.0"
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": null,
+      "parameter_name": "GLYCATED HEMOGLOBIN",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "5.40",
+      "units": "%",
+      "reference_interval": {
+        "low": 8.8,
+        "high": 20.5
+      },
+      "method": "TINIA",
+      "source": {
+        "page_index": 2,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895816Z"
+        }
+      },
+      "schema_version": "2.0"
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": {
+        "$oid": "66b4a3c459cc60bfb4958d29"
+      },
+      "parameter_name": "CREATININE",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "1.06",
+      "units": "mg/dL",
+      "reference_interval": {
+        "low": 136.0,
+        "high": 145.0
+      },
+      "method": "Modified Jaffe Kinetic",
+      "source": {
+        "page_index": 3,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895819Z"
+        }
+      },
+      "schema_version": "2.0"
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "patient": {
+        "$oid": "677666e8241872e14d9b04c5"
+      },
+      "parameter_id": {
+        "$oid": "65dcbc023012fd1f2b81ed69"
+      },
+      "parameter_name": "TRIGLYCERIDES",
+      "date": {
+        "$date": "2025-02-18T00:42:00.000Z"
+      },
+      "value": "77.6",
+      "units": "mg/dL",
+      "reference_interval": {
+        "low": 2.5,
+        "high": 4.5
+      },
+      "method": "Enzymatic colorimetry",
+      "source": {
+        "page_index": 4,
+        "report": {
+          "$oid": "67a0ca1d4929e8e245e89003"
+        }
+      },
+      "audit": {
+        "created_on": {
+          "$date": "2025-07-03T17:26:10.895822Z"
+        }
+      },
+      "schema_version": "2.0"
+    }
+  ]
+}

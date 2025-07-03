@@ -1,0 +1,2196 @@
+[
+  {
+    "patientId": {
+      "$oid": "685cf29e04a6c318938015f1"
+    },
+    "category": "serology",
+    "tags": [
+      {
+        "name": "HBeAg - Non Reactive",
+        "since": {
+          "$date": "2023-08-24T12:27:16.574031Z"
+        }
+      },
+      {
+        "name": "Anti-HCV - Non Reactive",
+        "since": {
+          "$date": "2022-10-23T12:27:16.574059Z"
+        }
+      },
+      {
+        "name": "HIV - Non Reactive",
+        "since": {
+          "$date": "2022-09-23T12:27:16.574064Z"
+        }
+      },
+      {
+        "name": "CMV IgG - Positive",
+        "since": {
+          "$date": "2025-04-14T12:27:16.574070Z"
+        }
+      },
+      {
+        "name": "Hepatitis A IgM - Non Reactive",
+        "since": {
+          "$date": "2023-11-15T12:27:16.574073Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-04-29T12:27:16.574077Z"
+      },
+      "updated_on": {
+        "$date": "2025-04-29T12:27:16.574077Z"
+      },
+      "created_by": "685c1ef404a6c3189380144c",
+      "updated_by": "685c1ef404a6c3189380144c"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf29e04a6c318938015f1"
+    },
+    "category": "conditions",
+    "tags": [
+      {
+        "name": "Polycystic Kidney Disease",
+        "since": {
+          "$date": "2009-12-03T12:27:16.574087Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-02-09T12:27:16.574092Z"
+      },
+      "updated_on": {
+        "$date": "2025-02-09T12:27:16.574092Z"
+      },
+      "created_by": "685c1f3104a6c3189380146d",
+      "updated_by": "685c1f3104a6c3189380146d"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf29f04a6c31893801620"
+    },
+    "category": "serology",
+    "tags": [
+      {
+        "name": "HIV - Non Reactive",
+        "since": {
+          "$date": "2025-03-25T12:27:16.574105Z"
+        }
+      },
+      {
+        "name": "HBeAg - Non Reactive",
+        "since": {
+          "$date": "2023-04-01T12:27:16.574108Z"
+        }
+      },
+      {
+        "name": "HBsAg - Non Reactive",
+        "since": {
+          "$date": "2022-10-18T12:27:16.574111Z"
+        }
+      },
+      {
+        "name": "Anti-HBc - Non Reactive",
+        "since": {
+          "$date": "2022-08-17T12:27:16.574114Z"
+        }
+      },
+      {
+        "name": "Anti-HCV - Non Reactive",
+        "since": {
+          "$date": "2023-08-25T12:27:16.574116Z"
+        }
+      },
+      {
+        "name": "EBV IgG - Positive",
+        "since": {
+          "$date": "2025-04-26T12:27:16.574119Z"
+        }
+      },
+      {
+        "name": "EBV IgM - Non Reactive",
+        "since": {
+          "$date": "2024-04-08T12:27:16.574121Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-05-27T12:27:16.574124Z"
+      },
+      "updated_on": {
+        "$date": "2025-05-27T12:27:16.574124Z"
+      },
+      "created_by": "685c1f1c04a6c31893801462",
+      "updated_by": "685c1f1c04a6c31893801462"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf29f04a6c31893801620"
+    },
+    "category": "conditions",
+    "tags": [
+      {
+        "name": "Hypertension",
+        "since": {
+          "$date": "2016-09-01T12:27:16.574132Z"
+        }
+      },
+      {
+        "name": "Left Ventricular Hypertrophy",
+        "since": {
+          "$date": "2016-05-06T12:27:16.574137Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-03-29T12:27:16.574140Z"
+      },
+      "updated_on": {
+        "$date": "2025-03-29T12:27:16.574140Z"
+      },
+      "created_by": "685c1f4704a6c31893801478",
+      "updated_by": "685c1f4704a6c31893801478"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a004a6c3189380164f"
+    },
+    "category": "serology",
+    "tags": [
+      {
+        "name": "HBeAg - Non Reactive",
+        "since": {
+          "$date": "2023-08-19T12:27:16.574150Z"
+        }
+      },
+      {
+        "name": "Anti-HBc - Non Reactive",
+        "since": {
+          "$date": "2022-07-26T12:27:16.574153Z"
+        }
+      },
+      {
+        "name": "Anti-HCV - Non Reactive",
+        "since": {
+          "$date": "2023-05-03T12:27:16.574155Z"
+        }
+      },
+      {
+        "name": "EBV IgM - Non Reactive",
+        "since": {
+          "$date": "2023-03-07T12:27:16.574158Z"
+        }
+      },
+      {
+        "name": "EBV IgG - Positive",
+        "since": {
+          "$date": "2025-02-27T12:27:16.574161Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-05-08T12:27:16.574164Z"
+      },
+      "updated_on": {
+        "$date": "2025-05-08T12:27:16.574164Z"
+      },
+      "created_by": "685c1f9e04a6c318938014a4",
+      "updated_by": "685c1f9e04a6c318938014a4"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a004a6c3189380164f"
+    },
+    "category": "allergies",
+    "tags": [
+      {
+        "name": "Soy",
+        "since": {
+          "$date": "2016-12-13T12:27:16.574171Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-18T12:27:16.574175Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-18T12:27:16.574175Z"
+      },
+      "created_by": "685c1f7404a6c3189380148e",
+      "updated_by": "685c1f7404a6c3189380148e"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a004a6c3189380164f"
+    },
+    "category": "conditions",
+    "tags": [
+      {
+        "name": "Glomerulonephritis",
+        "since": {
+          "$date": "2009-03-23T12:27:16.574182Z"
+        }
+      },
+      {
+        "name": "Cerebrovascular Disease",
+        "since": {
+          "$date": "2024-02-27T12:27:16.574185Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-05-14T12:27:16.574188Z"
+      },
+      "updated_on": {
+        "$date": "2025-05-14T12:27:16.574188Z"
+      },
+      "created_by": "685c1f7404a6c3189380148e",
+      "updated_by": "685c1f7404a6c3189380148e"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a104a6c3189380167e"
+    },
+    "category": "serology",
+    "tags": [
+      {
+        "name": "HBeAg - Non Reactive",
+        "since": {
+          "$date": "2025-01-06T12:27:16.574198Z"
+        }
+      },
+      {
+        "name": "Anti-HBc - Non Reactive",
+        "since": {
+          "$date": "2025-01-21T12:27:16.574201Z"
+        }
+      },
+      {
+        "name": "HIV - Non Reactive",
+        "since": {
+          "$date": "2025-01-15T12:27:16.574203Z"
+        }
+      },
+      {
+        "name": "Hepatitis A IgM - Non Reactive",
+        "since": {
+          "$date": "2024-03-12T12:27:16.574206Z"
+        }
+      },
+      {
+        "name": "CMV IgG - Positive",
+        "since": {
+          "$date": "2023-03-04T12:27:16.574208Z"
+        }
+      },
+      {
+        "name": "EBV IgM - Non Reactive",
+        "since": {
+          "$date": "2024-11-09T12:27:16.574211Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-02-14T12:27:16.574214Z"
+      },
+      "updated_on": {
+        "$date": "2025-02-14T12:27:16.574214Z"
+      },
+      "created_by": "685c1f3104a6c3189380146d",
+      "updated_by": "685c1f3104a6c3189380146d"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a104a6c3189380167e"
+    },
+    "category": "allergies",
+    "tags": [
+      {
+        "name": "Iron Supplements",
+        "since": {
+          "$date": "2020-08-12T12:27:16.574223Z"
+        }
+      },
+      {
+        "name": "Wheat",
+        "since": {
+          "$date": "2006-09-16T12:27:16.574228Z"
+        }
+      },
+      {
+        "name": "Soy",
+        "since": {
+          "$date": "2020-09-12T12:27:16.574232Z"
+        }
+      },
+      {
+        "name": "Latex",
+        "since": {
+          "$date": "2010-05-11T12:27:16.574235Z"
+        }
+      },
+      {
+        "name": "Adhesives",
+        "since": {
+          "$date": "2021-01-06T12:27:16.574238Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-05-04T12:27:16.574241Z"
+      },
+      "updated_on": {
+        "$date": "2025-05-04T12:27:16.574241Z"
+      },
+      "created_by": "685c1c7504a6c31893801435",
+      "updated_by": "685c1c7504a6c31893801435"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a104a6c3189380167e"
+    },
+    "category": "conditions",
+    "tags": [
+      {
+        "name": "Glomerulonephritis",
+        "since": {
+          "$date": "2021-06-22T12:27:16.574249Z"
+        }
+      },
+      {
+        "name": "Diabetes Mellitus Type 2",
+        "since": {
+          "$date": "2018-06-28T12:27:16.574252Z"
+        }
+      },
+      {
+        "name": "Coronary Artery Disease",
+        "since": {
+          "$date": "2021-05-10T12:27:16.574257Z"
+        }
+      },
+      {
+        "name": "Secondary Hyperparathyroidism",
+        "since": {
+          "$date": "2023-07-12T12:27:16.574260Z"
+        }
+      },
+      {
+        "name": "Chronic Fatigue",
+        "since": {
+          "$date": "2021-09-09T12:27:16.574262Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-04-03T12:27:16.574265Z"
+      },
+      "updated_on": {
+        "$date": "2025-04-03T12:27:16.574265Z"
+      },
+      "created_by": "685c1f4704a6c31893801478",
+      "updated_by": "685c1f4704a6c31893801478"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a104a6c318938016ad"
+    },
+    "category": "serology",
+    "tags": [
+      {
+        "name": "HIV - Non Reactive",
+        "since": {
+          "$date": "2023-08-26T12:27:16.574274Z"
+        }
+      },
+      {
+        "name": "HBeAg - Non Reactive",
+        "since": {
+          "$date": "2023-05-24T12:27:16.574277Z"
+        }
+      },
+      {
+        "name": "Anti-HBc - Non Reactive",
+        "since": {
+          "$date": "2025-05-08T12:27:16.574280Z"
+        }
+      },
+      {
+        "name": "Anti-HCV - Non Reactive",
+        "since": {
+          "$date": "2023-04-10T12:27:16.574282Z"
+        }
+      },
+      {
+        "name": "HBsAg - Non Reactive",
+        "since": {
+          "$date": "2023-06-11T12:27:16.574285Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-16T12:27:16.574288Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-16T12:27:16.574288Z"
+      },
+      "created_by": "685c1f8904a6c31893801499",
+      "updated_by": "685c1f8904a6c31893801499"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a104a6c318938016ad"
+    },
+    "category": "conditions",
+    "tags": [
+      {
+        "name": "Diabetes Mellitus Type 2",
+        "since": {
+          "$date": "2018-11-23T12:27:16.574295Z"
+        }
+      },
+      {
+        "name": "Metabolic Acidosis",
+        "since": {
+          "$date": "2023-11-28T12:27:16.574298Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-03-18T12:27:16.574301Z"
+      },
+      "updated_on": {
+        "$date": "2025-03-18T12:27:16.574301Z"
+      },
+      "created_by": "685c1f0704a6c31893801457",
+      "updated_by": "685c1f0704a6c31893801457"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a304a6c318938016dc"
+    },
+    "category": "serology",
+    "tags": [
+      {
+        "name": "HIV - Non Reactive",
+        "since": {
+          "$date": "2024-11-26T12:27:16.574311Z"
+        }
+      },
+      {
+        "name": "Anti-HBc - Non Reactive",
+        "since": {
+          "$date": "2022-12-30T12:27:16.574313Z"
+        }
+      },
+      {
+        "name": "HBeAg - Non Reactive",
+        "since": {
+          "$date": "2024-05-29T12:27:16.574316Z"
+        }
+      },
+      {
+        "name": "HBsAg - Non Reactive",
+        "since": {
+          "$date": "2024-08-22T12:27:16.574318Z"
+        }
+      },
+      {
+        "name": "Anti-HCV - Non Reactive",
+        "since": {
+          "$date": "2023-09-04T12:27:16.574320Z"
+        }
+      },
+      {
+        "name": "Hepatitis A IgM - Non Reactive",
+        "since": {
+          "$date": "2023-05-18T12:27:16.574323Z"
+        }
+      },
+      {
+        "name": "CMV IgM - Non Reactive",
+        "since": {
+          "$date": "2023-06-13T12:27:16.574326Z"
+        }
+      },
+      {
+        "name": "Hepatitis A IgG - Positive",
+        "since": {
+          "$date": "2023-06-04T12:27:16.574328Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-01-07T12:27:16.574331Z"
+      },
+      "updated_on": {
+        "$date": "2025-01-07T12:27:16.574331Z"
+      },
+      "created_by": "685c1f9e04a6c318938014a4",
+      "updated_by": "685c1f9e04a6c318938014a4"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a304a6c318938016dc"
+    },
+    "category": "conditions",
+    "tags": [
+      {
+        "name": "Hypertensive Nephrosclerosis",
+        "since": {
+          "$date": "2018-02-08T12:27:16.574340Z"
+        }
+      },
+      {
+        "name": "Cerebrovascular Disease",
+        "since": {
+          "$date": "2012-06-16T12:27:16.574343Z"
+        }
+      },
+      {
+        "name": "Coronary Artery Disease",
+        "since": {
+          "$date": "2020-08-05T12:27:16.574345Z"
+        }
+      },
+      {
+        "name": "Secondary Hyperparathyroidism",
+        "since": {
+          "$date": "2020-08-17T12:27:16.574348Z"
+        }
+      },
+      {
+        "name": "Mineral Bone Disorder",
+        "since": {
+          "$date": "2023-03-06T12:27:16.574350Z"
+        }
+      },
+      {
+        "name": "Bone Disease (CKD-MBD)",
+        "since": {
+          "$date": "2022-11-03T12:27:16.574353Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-01-05T12:27:16.574356Z"
+      },
+      "updated_on": {
+        "$date": "2025-01-05T12:27:16.574356Z"
+      },
+      "created_by": "685c1f3104a6c3189380146d",
+      "updated_by": "685c1f3104a6c3189380146d"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a304a6c3189380170b"
+    },
+    "category": "serology",
+    "tags": [
+      {
+        "name": "HIV - Non Reactive",
+        "since": {
+          "$date": "2023-08-05T12:27:16.574366Z"
+        }
+      },
+      {
+        "name": "Anti-HBc - Non Reactive",
+        "since": {
+          "$date": "2025-04-26T12:27:16.574369Z"
+        }
+      },
+      {
+        "name": "HBsAg - Non Reactive",
+        "since": {
+          "$date": "2024-11-04T12:27:16.574372Z"
+        }
+      },
+      {
+        "name": "Anti-HCV - Non Reactive",
+        "since": {
+          "$date": "2024-09-28T12:27:16.574374Z"
+        }
+      },
+      {
+        "name": "HBeAg - Non Reactive",
+        "since": {
+          "$date": "2023-07-08T12:27:16.574377Z"
+        }
+      },
+      {
+        "name": "VDRL - Non Reactive",
+        "since": {
+          "$date": "2024-06-03T12:27:16.574379Z"
+        }
+      },
+      {
+        "name": "CMV IgM - Non Reactive",
+        "since": {
+          "$date": "2024-12-20T12:27:16.574382Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-03-28T12:27:16.574385Z"
+      },
+      "updated_on": {
+        "$date": "2025-03-28T12:27:16.574385Z"
+      },
+      "created_by": "685c1f7404a6c3189380148e",
+      "updated_by": "685c1f7404a6c3189380148e"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a304a6c3189380170b"
+    },
+    "category": "allergies",
+    "tags": [
+      {
+        "name": "Mold",
+        "since": {
+          "$date": "2015-05-07T12:27:16.574392Z"
+        }
+      },
+      {
+        "name": "Smoke",
+        "since": {
+          "$date": "2004-01-24T12:27:16.574395Z"
+        }
+      },
+      {
+        "name": "Dust Mites",
+        "since": {
+          "$date": "2019-07-15T12:27:16.574397Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-03-03T12:27:16.574400Z"
+      },
+      "updated_on": {
+        "$date": "2025-03-03T12:27:16.574400Z"
+      },
+      "created_by": "685c1f9e04a6c318938014a4",
+      "updated_by": "685c1f9e04a6c318938014a4"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a304a6c3189380170b"
+    },
+    "category": "conditions",
+    "tags": [
+      {
+        "name": "Hypertensive Nephrosclerosis",
+        "since": {
+          "$date": "2021-01-22T12:27:16.574407Z"
+        }
+      },
+      {
+        "name": "Left Ventricular Hypertrophy",
+        "since": {
+          "$date": "2023-11-01T12:27:16.574410Z"
+        }
+      },
+      {
+        "name": "Bone Disease (CKD-MBD)",
+        "since": {
+          "$date": "2023-12-10T12:27:16.574413Z"
+        }
+      },
+      {
+        "name": "Secondary Hyperparathyroidism",
+        "since": {
+          "$date": "2020-08-06T12:27:16.574416Z"
+        }
+      },
+      {
+        "name": "Mineral Bone Disorder",
+        "since": {
+          "$date": "2020-03-24T12:27:16.574418Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-18T12:27:16.574422Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-18T12:27:16.574422Z"
+      },
+      "created_by": "685c1fbe04a6c318938014af",
+      "updated_by": "685c1fbe04a6c318938014af"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a504a6c31893801743"
+    },
+    "category": "serology",
+    "tags": [
+      {
+        "name": "HBeAg - Non Reactive",
+        "since": {
+          "$date": "2023-07-27T12:27:16.574430Z"
+        }
+      },
+      {
+        "name": "Anti-HCV - Non Reactive",
+        "since": {
+          "$date": "2024-08-02T12:27:16.574433Z"
+        }
+      },
+      {
+        "name": "HIV - Non Reactive",
+        "since": {
+          "$date": "2024-07-07T12:27:16.574436Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-04-19T12:27:16.574439Z"
+      },
+      "updated_on": {
+        "$date": "2025-04-19T12:27:16.574439Z"
+      },
+      "created_by": "685c1f8904a6c31893801499",
+      "updated_by": "685c1f8904a6c31893801499"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a504a6c31893801743"
+    },
+    "category": "conditions",
+    "tags": [
+      {
+        "name": "Diabetes Mellitus Type 2",
+        "since": {
+          "$date": "2006-11-26T12:27:16.574447Z"
+        }
+      },
+      {
+        "name": "Bone Disease (CKD-MBD)",
+        "since": {
+          "$date": "2021-05-06T12:27:16.574450Z"
+        }
+      },
+      {
+        "name": "Mineral Bone Disorder",
+        "since": {
+          "$date": "2019-12-13T12:27:16.574452Z"
+        }
+      },
+      {
+        "name": "Secondary Hyperparathyroidism",
+        "since": {
+          "$date": "2023-07-22T12:27:16.574455Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-03-05T12:27:16.574458Z"
+      },
+      "updated_on": {
+        "$date": "2025-03-05T12:27:16.574458Z"
+      },
+      "created_by": "685c1f1c04a6c31893801462",
+      "updated_by": "685c1f1c04a6c31893801462"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a604a6c31893801772"
+    },
+    "category": "serology",
+    "tags": [
+      {
+        "name": "Anti-HBc - Non Reactive",
+        "since": {
+          "$date": "2023-02-11T12:27:16.574466Z"
+        }
+      },
+      {
+        "name": "Anti-HCV - Non Reactive",
+        "since": {
+          "$date": "2025-02-22T12:27:16.574469Z"
+        }
+      },
+      {
+        "name": "HIV - Non Reactive",
+        "since": {
+          "$date": "2023-02-25T12:27:16.574471Z"
+        }
+      },
+      {
+        "name": "Hepatitis A IgM - Non Reactive",
+        "since": {
+          "$date": "2024-10-31T12:27:16.574474Z"
+        }
+      },
+      {
+        "name": "EBV IgM - Non Reactive",
+        "since": {
+          "$date": "2024-05-05T12:27:16.574476Z"
+        }
+      },
+      {
+        "name": "Toxoplasma IgG - Positive",
+        "since": {
+          "$date": "2024-11-13T12:27:16.574479Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-03-26T12:27:16.574482Z"
+      },
+      "updated_on": {
+        "$date": "2025-03-26T12:27:16.574482Z"
+      },
+      "created_by": "685c1fbe04a6c318938014af",
+      "updated_by": "685c1fbe04a6c318938014af"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a604a6c31893801772"
+    },
+    "category": "conditions",
+    "tags": [
+      {
+        "name": "Hypertension",
+        "since": {
+          "$date": "2014-01-16T12:27:16.574489Z"
+        }
+      },
+      {
+        "name": "Glomerulonephritis",
+        "since": {
+          "$date": "2014-01-29T12:27:16.574492Z"
+        }
+      },
+      {
+        "name": "Cerebrovascular Disease",
+        "since": {
+          "$date": "2014-09-19T12:27:16.574494Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-02-01T12:27:16.574497Z"
+      },
+      "updated_on": {
+        "$date": "2025-02-01T12:27:16.574497Z"
+      },
+      "created_by": "685c1f1c04a6c31893801462",
+      "updated_by": "685c1f1c04a6c31893801462"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a604a6c318938017a1"
+    },
+    "category": "serology",
+    "tags": [
+      {
+        "name": "Anti-HBc - Non Reactive",
+        "since": {
+          "$date": "2025-05-19T12:27:16.574508Z"
+        }
+      },
+      {
+        "name": "HBsAg - Non Reactive",
+        "since": {
+          "$date": "2024-12-22T12:27:16.574511Z"
+        }
+      },
+      {
+        "name": "HBeAg - Non Reactive",
+        "since": {
+          "$date": "2023-01-21T12:27:16.574513Z"
+        }
+      },
+      {
+        "name": "EBV IgM - Non Reactive",
+        "since": {
+          "$date": "2025-02-15T12:27:16.574515Z"
+        }
+      },
+      {
+        "name": "CMV IgM - Non Reactive",
+        "since": {
+          "$date": "2023-03-14T12:27:16.574518Z"
+        }
+      },
+      {
+        "name": "VDRL - Non Reactive",
+        "since": {
+          "$date": "2022-11-17T12:27:16.574520Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-03-03T12:27:16.574523Z"
+      },
+      "updated_on": {
+        "$date": "2025-03-03T12:27:16.574523Z"
+      },
+      "created_by": "685c1f9e04a6c318938014a4",
+      "updated_by": "685c1f9e04a6c318938014a4"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a604a6c318938017a1"
+    },
+    "category": "conditions",
+    "tags": [
+      {
+        "name": "Diabetic Nephropathy",
+        "since": {
+          "$date": "2013-09-30T12:27:16.574530Z"
+        }
+      },
+      {
+        "name": "IgA Nephropathy",
+        "since": {
+          "$date": "2020-09-21T12:27:16.574533Z"
+        }
+      },
+      {
+        "name": "Coronary Artery Disease",
+        "since": {
+          "$date": "2019-08-22T12:27:16.574535Z"
+        }
+      },
+      {
+        "name": "Chronic Fatigue",
+        "since": {
+          "$date": "2022-03-04T12:27:16.574538Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-01-17T12:27:16.574541Z"
+      },
+      "updated_on": {
+        "$date": "2025-01-17T12:27:16.574541Z"
+      },
+      "created_by": "685c1f0704a6c31893801457",
+      "updated_by": "685c1f0704a6c31893801457"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a704a6c318938017d0"
+    },
+    "category": "serology",
+    "tags": [
+      {
+        "name": "Anti-HBc - Non Reactive",
+        "since": {
+          "$date": "2024-06-25T12:27:16.574549Z"
+        }
+      },
+      {
+        "name": "Anti-HCV - Non Reactive",
+        "since": {
+          "$date": "2025-01-12T12:27:16.574552Z"
+        }
+      },
+      {
+        "name": "HBeAg - Non Reactive",
+        "since": {
+          "$date": "2024-11-22T12:27:16.574555Z"
+        }
+      },
+      {
+        "name": "HIV - Non Reactive",
+        "since": {
+          "$date": "2025-05-14T12:27:16.574558Z"
+        }
+      },
+      {
+        "name": "CMV IgG - Positive",
+        "since": {
+          "$date": "2025-05-28T12:27:16.574560Z"
+        }
+      },
+      {
+        "name": "Toxoplasma IgM - Non Reactive",
+        "since": {
+          "$date": "2022-12-17T12:27:16.574563Z"
+        }
+      },
+      {
+        "name": "VDRL - Non Reactive",
+        "since": {
+          "$date": "2024-06-19T12:27:16.574565Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-05-12T12:27:16.574569Z"
+      },
+      "updated_on": {
+        "$date": "2025-05-12T12:27:16.574569Z"
+      },
+      "created_by": "685c1f1c04a6c31893801462",
+      "updated_by": "685c1f1c04a6c31893801462"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a704a6c318938017d0"
+    },
+    "category": "conditions",
+    "tags": [
+      {
+        "name": "Hypertensive Nephrosclerosis",
+        "since": {
+          "$date": "2013-05-05T12:27:16.574576Z"
+        }
+      },
+      {
+        "name": "Diabetic Nephropathy",
+        "since": {
+          "$date": "2014-03-11T12:27:16.574579Z"
+        }
+      },
+      {
+        "name": "Coronary Artery Disease",
+        "since": {
+          "$date": "2020-05-18T12:27:16.574582Z"
+        }
+      },
+      {
+        "name": "Cerebrovascular Disease",
+        "since": {
+          "$date": "2013-03-22T12:27:16.574585Z"
+        }
+      },
+      {
+        "name": "Peripheral Artery Disease",
+        "since": {
+          "$date": "2019-01-19T12:27:16.574587Z"
+        }
+      },
+      {
+        "name": "Anemia of CKD",
+        "since": {
+          "$date": "2021-10-24T12:27:16.574590Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-05-14T12:27:16.574593Z"
+      },
+      "updated_on": {
+        "$date": "2025-05-14T12:27:16.574593Z"
+      },
+      "created_by": "685c1f8904a6c31893801499",
+      "updated_by": "685c1f8904a6c31893801499"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a804a6c318938017ff"
+    },
+    "category": "serology",
+    "tags": [
+      {
+        "name": "Anti-HCV - Non Reactive",
+        "since": {
+          "$date": "2023-02-03T12:27:16.574601Z"
+        }
+      },
+      {
+        "name": "HIV - Non Reactive",
+        "since": {
+          "$date": "2022-11-28T12:27:16.574605Z"
+        }
+      },
+      {
+        "name": "HBsAg - Non Reactive",
+        "since": {
+          "$date": "2024-04-30T12:27:16.574607Z"
+        }
+      },
+      {
+        "name": "Anti-HBc - Non Reactive",
+        "since": {
+          "$date": "2024-03-31T12:27:16.574610Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-01-19T12:27:16.574613Z"
+      },
+      "updated_on": {
+        "$date": "2025-01-19T12:27:16.574613Z"
+      },
+      "created_by": "685c1c7504a6c31893801435",
+      "updated_by": "685c1c7504a6c31893801435"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a804a6c318938017ff"
+    },
+    "category": "allergies",
+    "tags": [
+      {
+        "name": "Pollen",
+        "since": {
+          "$date": "2017-11-01T12:27:16.574620Z"
+        }
+      },
+      {
+        "name": "Dust Mites",
+        "since": {
+          "$date": "2014-03-11T12:27:16.574623Z"
+        }
+      },
+      {
+        "name": "Pet Dander",
+        "since": {
+          "$date": "2015-12-10T12:27:16.574627Z"
+        }
+      },
+      {
+        "name": "Cleaning Products",
+        "since": {
+          "$date": "2010-04-17T12:27:16.574630Z"
+        }
+      },
+      {
+        "name": "Adhesives",
+        "since": {
+          "$date": "2010-09-10T12:27:16.574633Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-01-14T12:27:16.574635Z"
+      },
+      "updated_on": {
+        "$date": "2025-01-14T12:27:16.574635Z"
+      },
+      "created_by": "685c1f3104a6c3189380146d",
+      "updated_by": "685c1f3104a6c3189380146d"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a804a6c318938017ff"
+    },
+    "category": "conditions",
+    "tags": [
+      {
+        "name": "Diabetes Mellitus Type 2",
+        "since": {
+          "$date": "2018-08-20T12:27:16.574641Z"
+        }
+      },
+      {
+        "name": "Polycystic Kidney Disease",
+        "since": {
+          "$date": "2015-10-16T12:27:16.574644Z"
+        }
+      },
+      {
+        "name": "Metabolic Acidosis",
+        "since": {
+          "$date": "2022-07-27T12:27:16.574649Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-01-11T12:27:16.574652Z"
+      },
+      "updated_on": {
+        "$date": "2025-01-11T12:27:16.574652Z"
+      },
+      "created_by": "685c1f7404a6c3189380148e",
+      "updated_by": "685c1f7404a6c3189380148e"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a904a6c3189380182e"
+    },
+    "category": "serology",
+    "tags": [
+      {
+        "name": "HBeAg - Non Reactive",
+        "since": {
+          "$date": "2024-10-31T12:27:16.574660Z"
+        }
+      },
+      {
+        "name": "HBsAg - Non Reactive",
+        "since": {
+          "$date": "2025-02-17T12:27:16.574663Z"
+        }
+      },
+      {
+        "name": "Anti-HCV - Non Reactive",
+        "since": {
+          "$date": "2023-01-25T12:27:16.574665Z"
+        }
+      },
+      {
+        "name": "Anti-HBc - Non Reactive",
+        "since": {
+          "$date": "2023-04-28T12:27:16.574668Z"
+        }
+      },
+      {
+        "name": "HIV - Non Reactive",
+        "since": {
+          "$date": "2024-10-17T12:27:16.574670Z"
+        }
+      },
+      {
+        "name": "Toxoplasma IgM - Non Reactive",
+        "since": {
+          "$date": "2025-05-26T12:27:16.574673Z"
+        }
+      },
+      {
+        "name": "Hepatitis A IgG - Positive",
+        "since": {
+          "$date": "2025-05-22T12:27:16.574675Z"
+        }
+      },
+      {
+        "name": "EBV IgG - Positive",
+        "since": {
+          "$date": "2024-05-23T12:27:16.574678Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-01-08T12:27:16.574680Z"
+      },
+      "updated_on": {
+        "$date": "2025-01-08T12:27:16.574680Z"
+      },
+      "created_by": "685c1f4704a6c31893801478",
+      "updated_by": "685c1f4704a6c31893801478"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2a904a6c3189380182e"
+    },
+    "category": "conditions",
+    "tags": [
+      {
+        "name": "IgA Nephropathy",
+        "since": {
+          "$date": "2021-12-21T12:27:16.574688Z"
+        }
+      },
+      {
+        "name": "Congestive Heart Failure",
+        "since": {
+          "$date": "2022-05-30T12:27:16.574691Z"
+        }
+      },
+      {
+        "name": "Mineral Bone Disorder",
+        "since": {
+          "$date": "2020-11-07T12:27:16.574693Z"
+        }
+      },
+      {
+        "name": "Metabolic Acidosis",
+        "since": {
+          "$date": "2019-08-02T12:27:16.574696Z"
+        }
+      },
+      {
+        "name": "Anemia of CKD",
+        "since": {
+          "$date": "2023-12-20T12:27:16.574699Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-05-25T12:27:16.574702Z"
+      },
+      "updated_on": {
+        "$date": "2025-05-25T12:27:16.574702Z"
+      },
+      "created_by": "685c1fbe04a6c318938014af",
+      "updated_by": "685c1fbe04a6c318938014af"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2aa04a6c3189380185d"
+    },
+    "category": "serology",
+    "tags": [
+      {
+        "name": "HBeAg - Non Reactive",
+        "since": {
+          "$date": "2024-08-11T12:27:16.574711Z"
+        }
+      },
+      {
+        "name": "HIV - Non Reactive",
+        "since": {
+          "$date": "2023-07-26T12:27:16.574714Z"
+        }
+      },
+      {
+        "name": "HBsAg - Non Reactive",
+        "since": {
+          "$date": "2023-12-18T12:27:16.574716Z"
+        }
+      },
+      {
+        "name": "Anti-HCV - Non Reactive",
+        "since": {
+          "$date": "2025-04-13T12:27:16.574719Z"
+        }
+      },
+      {
+        "name": "VDRL - Non Reactive",
+        "since": {
+          "$date": "2023-03-23T12:27:16.574721Z"
+        }
+      },
+      {
+        "name": "Hepatitis A IgM - Non Reactive",
+        "since": {
+          "$date": "2024-07-23T12:27:16.574723Z"
+        }
+      },
+      {
+        "name": "Toxoplasma IgG - Positive",
+        "since": {
+          "$date": "2023-02-23T12:27:16.574726Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-02-05T12:27:16.574729Z"
+      },
+      "updated_on": {
+        "$date": "2025-02-05T12:27:16.574729Z"
+      },
+      "created_by": "685c1f3104a6c3189380146d",
+      "updated_by": "685c1f3104a6c3189380146d"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2aa04a6c3189380185d"
+    },
+    "category": "conditions",
+    "tags": [
+      {
+        "name": "IgA Nephropathy",
+        "since": {
+          "$date": "2016-09-10T12:27:16.574736Z"
+        }
+      },
+      {
+        "name": "Glomerulonephritis",
+        "since": {
+          "$date": "2018-05-13T12:27:16.574739Z"
+        }
+      },
+      {
+        "name": "Cerebrovascular Disease",
+        "since": {
+          "$date": "2017-05-02T12:27:16.574742Z"
+        }
+      },
+      {
+        "name": "Gout",
+        "since": {
+          "$date": "2015-12-20T12:27:16.574744Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-02-03T12:27:16.574747Z"
+      },
+      "updated_on": {
+        "$date": "2025-02-03T12:27:16.574747Z"
+      },
+      "created_by": "685c1f4704a6c31893801478",
+      "updated_by": "685c1f4704a6c31893801478"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2aa04a6c3189380188c"
+    },
+    "category": "serology",
+    "tags": [
+      {
+        "name": "HIV - Non Reactive",
+        "since": {
+          "$date": "2022-08-18T12:27:16.574755Z"
+        }
+      },
+      {
+        "name": "HBsAg - Non Reactive",
+        "since": {
+          "$date": "2022-07-07T12:27:16.574758Z"
+        }
+      },
+      {
+        "name": "HBeAg - Non Reactive",
+        "since": {
+          "$date": "2023-03-24T12:27:16.574760Z"
+        }
+      },
+      {
+        "name": "EBV IgM - Non Reactive",
+        "since": {
+          "$date": "2023-01-28T12:27:16.574763Z"
+        }
+      },
+      {
+        "name": "VDRL - Non Reactive",
+        "since": {
+          "$date": "2022-10-10T12:27:16.574765Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-20T12:27:16.574768Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-20T12:27:16.574768Z"
+      },
+      "created_by": "685c1f4704a6c31893801478",
+      "updated_by": "685c1f4704a6c31893801478"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2aa04a6c3189380188c"
+    },
+    "category": "conditions",
+    "tags": [
+      {
+        "name": "Glomerulonephritis",
+        "since": {
+          "$date": "2012-07-22T12:27:16.574775Z"
+        }
+      },
+      {
+        "name": "Congestive Heart Failure",
+        "since": {
+          "$date": "2023-10-13T12:27:16.574777Z"
+        }
+      },
+      {
+        "name": "Metabolic Acidosis",
+        "since": {
+          "$date": "2023-03-09T12:27:16.574780Z"
+        }
+      },
+      {
+        "name": "Mineral Bone Disorder",
+        "since": {
+          "$date": "2022-06-27T12:27:16.574782Z"
+        }
+      },
+      {
+        "name": "Anemia of CKD",
+        "since": {
+          "$date": "2022-04-09T12:27:16.574785Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-01-23T12:27:16.574788Z"
+      },
+      "updated_on": {
+        "$date": "2025-01-23T12:27:16.574788Z"
+      },
+      "created_by": "685c1f8904a6c31893801499",
+      "updated_by": "685c1f8904a6c31893801499"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2ab04a6c318938018bb"
+    },
+    "category": "serology",
+    "tags": [
+      {
+        "name": "HBeAg - Non Reactive",
+        "since": {
+          "$date": "2024-10-04T12:27:16.574796Z"
+        }
+      },
+      {
+        "name": "Anti-HCV - Non Reactive",
+        "since": {
+          "$date": "2023-11-21T12:27:16.574799Z"
+        }
+      },
+      {
+        "name": "HIV - Non Reactive",
+        "since": {
+          "$date": "2023-08-06T12:27:16.574801Z"
+        }
+      },
+      {
+        "name": "Anti-HBc - Non Reactive",
+        "since": {
+          "$date": "2023-01-20T12:27:16.574804Z"
+        }
+      },
+      {
+        "name": "Toxoplasma IgM - Non Reactive",
+        "since": {
+          "$date": "2023-02-15T12:27:16.574807Z"
+        }
+      },
+      {
+        "name": "EBV IgG - Positive",
+        "since": {
+          "$date": "2024-03-11T12:27:16.574810Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-04-07T12:27:16.574813Z"
+      },
+      "updated_on": {
+        "$date": "2025-04-07T12:27:16.574813Z"
+      },
+      "created_by": "685c1f0704a6c31893801457",
+      "updated_by": "685c1f0704a6c31893801457"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2ab04a6c318938018bb"
+    },
+    "category": "conditions",
+    "tags": [
+      {
+        "name": "Diabetes Mellitus Type 2",
+        "since": {
+          "$date": "2015-12-19T12:27:16.574819Z"
+        }
+      },
+      {
+        "name": "Hypertension",
+        "since": {
+          "$date": "2010-01-23T12:27:16.574822Z"
+        }
+      },
+      {
+        "name": "Metabolic Acidosis",
+        "since": {
+          "$date": "2023-12-24T12:27:16.574825Z"
+        }
+      },
+      {
+        "name": "Anemia of CKD",
+        "since": {
+          "$date": "2024-08-21T12:27:16.574827Z"
+        }
+      },
+      {
+        "name": "Secondary Hyperparathyroidism",
+        "since": {
+          "$date": "2024-04-17T12:27:16.574830Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-05-28T12:27:16.574833Z"
+      },
+      "updated_on": {
+        "$date": "2025-05-28T12:27:16.574833Z"
+      },
+      "created_by": "685c1f8904a6c31893801499",
+      "updated_by": "685c1f8904a6c31893801499"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2ac04a6c318938018ea"
+    },
+    "category": "serology",
+    "tags": [
+      {
+        "name": "HBeAg - Non Reactive",
+        "since": {
+          "$date": "2023-06-19T12:27:16.574843Z"
+        }
+      },
+      {
+        "name": "Anti-HCV - Non Reactive",
+        "since": {
+          "$date": "2025-03-31T12:27:16.574846Z"
+        }
+      },
+      {
+        "name": "HIV - Non Reactive",
+        "since": {
+          "$date": "2024-04-11T12:27:16.574849Z"
+        }
+      },
+      {
+        "name": "Anti-HBc - Non Reactive",
+        "since": {
+          "$date": "2024-11-25T12:27:16.574851Z"
+        }
+      },
+      {
+        "name": "HBsAg - Non Reactive",
+        "since": {
+          "$date": "2025-01-19T12:27:16.574854Z"
+        }
+      },
+      {
+        "name": "CMV IgG - Positive",
+        "since": {
+          "$date": "2024-08-05T12:27:16.574856Z"
+        }
+      },
+      {
+        "name": "Hepatitis A IgM - Non Reactive",
+        "since": {
+          "$date": "2025-03-10T12:27:16.574858Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-05-07T12:27:16.574861Z"
+      },
+      "updated_on": {
+        "$date": "2025-05-07T12:27:16.574861Z"
+      },
+      "created_by": "685c1fbe04a6c318938014af",
+      "updated_by": "685c1fbe04a6c318938014af"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2ac04a6c318938018ea"
+    },
+    "category": "allergies",
+    "tags": [
+      {
+        "name": "Dust Mites",
+        "since": {
+          "$date": "2019-05-18T12:27:16.574868Z"
+        }
+      },
+      {
+        "name": "Cleaning Products",
+        "since": {
+          "$date": "2020-08-27T12:27:16.574871Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-02-15T12:27:16.574874Z"
+      },
+      "updated_on": {
+        "$date": "2025-02-15T12:27:16.574874Z"
+      },
+      "created_by": "685c1f1c04a6c31893801462",
+      "updated_by": "685c1f1c04a6c31893801462"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2ac04a6c318938018ea"
+    },
+    "category": "conditions",
+    "tags": [
+      {
+        "name": "Glomerulonephritis",
+        "since": {
+          "$date": "2014-01-21T12:27:16.574881Z"
+        }
+      },
+      {
+        "name": "Polycystic Kidney Disease",
+        "since": {
+          "$date": "2015-12-25T12:27:16.574884Z"
+        }
+      },
+      {
+        "name": "Congestive Heart Failure",
+        "since": {
+          "$date": "2023-01-11T12:27:16.574886Z"
+        }
+      },
+      {
+        "name": "Cerebrovascular Disease",
+        "since": {
+          "$date": "2012-11-20T12:27:16.574893Z"
+        }
+      },
+      {
+        "name": "Secondary Hyperparathyroidism",
+        "since": {
+          "$date": "2019-12-08T12:27:16.574896Z"
+        }
+      },
+      {
+        "name": "Chronic Fatigue",
+        "since": {
+          "$date": "2021-08-26T12:27:16.574899Z"
+        }
+      },
+      {
+        "name": "Bone Disease (CKD-MBD)",
+        "since": {
+          "$date": "2024-12-26T12:27:16.574901Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-08T12:27:16.574904Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-08T12:27:16.574904Z"
+      },
+      "created_by": "685c1c7504a6c31893801435",
+      "updated_by": "685c1c7504a6c31893801435"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2ad04a6c31893801919"
+    },
+    "category": "serology",
+    "tags": [
+      {
+        "name": "Anti-HCV - Non Reactive",
+        "since": {
+          "$date": "2022-12-28T12:27:16.574914Z"
+        }
+      },
+      {
+        "name": "Anti-HBc - Non Reactive",
+        "since": {
+          "$date": "2025-02-06T12:27:16.574916Z"
+        }
+      },
+      {
+        "name": "HIV - Non Reactive",
+        "since": {
+          "$date": "2024-01-15T12:27:16.574919Z"
+        }
+      },
+      {
+        "name": "HBeAg - Non Reactive",
+        "since": {
+          "$date": "2024-02-03T12:27:16.574921Z"
+        }
+      },
+      {
+        "name": "Toxoplasma IgG - Positive",
+        "since": {
+          "$date": "2022-11-06T12:27:16.574924Z"
+        }
+      },
+      {
+        "name": "CMV IgM - Non Reactive",
+        "since": {
+          "$date": "2022-08-26T12:27:16.574926Z"
+        }
+      },
+      {
+        "name": "Toxoplasma IgM - Non Reactive",
+        "since": {
+          "$date": "2022-10-22T12:27:16.574929Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-03-11T12:27:16.574931Z"
+      },
+      "updated_on": {
+        "$date": "2025-03-11T12:27:16.574931Z"
+      },
+      "created_by": "685c1ef404a6c3189380144c",
+      "updated_by": "685c1ef404a6c3189380144c"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2ad04a6c31893801919"
+    },
+    "category": "conditions",
+    "tags": [
+      {
+        "name": "Diabetes Mellitus Type 2",
+        "since": {
+          "$date": "2017-09-19T12:27:16.574937Z"
+        }
+      },
+      {
+        "name": "Hypertensive Nephrosclerosis",
+        "since": {
+          "$date": "2018-09-14T12:27:16.574940Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-18T12:27:16.574943Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-18T12:27:16.574943Z"
+      },
+      "created_by": "685c1f0704a6c31893801457",
+      "updated_by": "685c1f0704a6c31893801457"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2e704a6c31893801948"
+    },
+    "category": "serology",
+    "tags": [
+      {
+        "name": "HBeAg - Non Reactive",
+        "since": {
+          "$date": "2024-07-12T12:27:16.574951Z"
+        }
+      },
+      {
+        "name": "HBsAg - Non Reactive",
+        "since": {
+          "$date": "2024-03-20T12:27:16.574954Z"
+        }
+      },
+      {
+        "name": "HIV - Non Reactive",
+        "since": {
+          "$date": "2023-06-13T12:27:16.574956Z"
+        }
+      },
+      {
+        "name": "EBV IgM - Non Reactive",
+        "since": {
+          "$date": "2022-11-27T12:27:16.574959Z"
+        }
+      },
+      {
+        "name": "Hepatitis A IgM - Non Reactive",
+        "since": {
+          "$date": "2023-11-09T12:27:16.574961Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-02-14T12:27:16.574964Z"
+      },
+      "updated_on": {
+        "$date": "2025-02-14T12:27:16.574964Z"
+      },
+      "created_by": "685c1f7404a6c3189380148e",
+      "updated_by": "685c1f7404a6c3189380148e"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  },
+  {
+    "patientId": {
+      "$oid": "685cf2e704a6c31893801948"
+    },
+    "category": "conditions",
+    "tags": [
+      {
+        "name": "Diabetes Mellitus Type 2",
+        "since": {
+          "$date": "2011-06-26T12:27:16.574972Z"
+        }
+      },
+      {
+        "name": "Diabetic Nephropathy",
+        "since": {
+          "$date": "2013-12-03T12:27:16.574975Z"
+        }
+      },
+      {
+        "name": "Left Ventricular Hypertrophy",
+        "since": {
+          "$date": "2010-11-22T12:27:16.574978Z"
+        }
+      },
+      {
+        "name": "Cerebrovascular Disease",
+        "since": {
+          "$date": "2014-11-18T12:27:16.574981Z"
+        }
+      },
+      {
+        "name": "Chronic Fatigue",
+        "since": {
+          "$date": "2023-12-20T12:27:16.574983Z"
+        }
+      },
+      {
+        "name": "Bone Disease (CKD-MBD)",
+        "since": {
+          "$date": "2021-08-31T12:27:16.574986Z"
+        }
+      },
+      {
+        "name": "Metabolic Acidosis",
+        "since": {
+          "$date": "2023-03-13T12:27:16.574989Z"
+        }
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-01-04T12:27:16.574992Z"
+      },
+      "updated_on": {
+        "$date": "2025-01-04T12:27:16.574992Z"
+      },
+      "created_by": "685c1f9e04a6c318938014a4",
+      "updated_by": "685c1f9e04a6c318938014a4"
+    },
+    "version": "1",
+    "organizationId": {
+      "$oid": "685c18f504a6c31893801427"
+    }
+  }
+]

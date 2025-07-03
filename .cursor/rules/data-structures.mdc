@@ -1,0 +1,80 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Data Structures and Schemas
+
+## Patient Data Structure
+Based on [create_patients.json](mdc:general/data/create_patients.json):
+
+```json
+{
+  "salutation": "Mr./Mrs./Ms.",
+  "name": "Full Name",
+  "dob": "DD-MM-YYYY",
+  "provided_dob": "DD-MM-YYYY", 
+  "biological_dob": "DD-MM-YYYY",
+  "is_approx_dob": boolean,
+  "gender": "male/female",
+  "blood_group": "A+/B+/O+/AB+/A-/B-/O-/AB-",
+  "email": "email@domain.com",
+  "phones": [
+    {
+      "type": "self",
+      "number": "+91XXXXXXXXXX"
+    }
+  ],
+  "addresses": [
+    {
+      "line1": "Street address",
+      "line2": "Area/Locality (optional)",
+      "city": "City name",
+      "state": "State name",
+      "pincode": "6-digit code",
+      "location": {
+        "lat": decimal,
+        "long": decimal
+      }
+    }
+  ]
+}
+```
+
+## Organization Data Structure
+Based on [create_smf_org.json](mdc:smf/data/create_smf_org.json) and [create_sparsh_org.json](mdc:sparsh/data/create_sparsh_org.json):
+
+```json
+{
+  "name": "Organization Name",
+  "onboarding_stage": "added/pilot",
+  "org_type": {
+    "line_of_business": "hospital",
+    "specialities": ["Nephrology", "Cardiology", ...],
+    "services": ["Dialysis", "Inpatient Services", ...]
+  },
+  "departments": [
+    {
+      "name": "Department Name",
+      "description": "Department description",
+      "dept_code": "DEPT_CODE",
+      "teams": [...]
+    }
+  ],
+  "addresses": [...],
+  "org_info": {
+    "founder": "Founder name",
+    "contact_person": "Contact person",
+    "llc_type": "Not for Profit/Private Limited",
+    "gst": "GST number"
+  }
+}
+```
+
+## Common Patterns
+
+- **Date Format**: DD-MM-YYYY consistently used
+- **Phone Format**: +91 followed by 10 digits
+- **Location Data**: Primarily Bengaluru/Karnataka and Chennai/Tamil Nadu
+- **Blood Groups**: Standard ABO/Rh system notation
+- **Gender Values**: "male" or "female" (lowercase)

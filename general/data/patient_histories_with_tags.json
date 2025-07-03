@@ -1,0 +1,4217 @@
+[
+  {
+    "patient_id": "685cf29e04a6c318938015f1",
+    "vascular_access": {
+      "value": "Perm Catheter",
+      "created": "06-03-2024"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "50"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "416"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "542"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "35.9"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "31"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Single"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Free"
+      }
+    ],
+    "diagnosis": "Glomerulonephritis leading to chronic kidney disease. Patient has Excellent response to dialysis therapy over the past 1 years.",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf29e04a6c318938015f1",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "05-04-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "16-05-2024",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf29e04a6c318938015f1",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "25-08-2024",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-26T17:44:53.900219Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-26T17:44:53.900230Z"
+      },
+      "created_by": "685c1ef404a6c3189380144c",
+      "updated_by": "685c1ef404a6c3189380144c"
+    },
+    "serology": [
+      {
+        "test": "Anti-HBc",
+        "result": "Non-Reactive",
+        "date": "04-05-2021"
+      },
+      {
+        "test": "CMV IgM",
+        "result": "Non-Reactive",
+        "date": "17-09-2023"
+      },
+      {
+        "test": "Anti-HCV",
+        "result": "Positive",
+        "date": "01-09-2022"
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Diabetes Mellitus Type 2",
+        "since": "15-02-2023",
+        "severity": "Mild",
+        "status": "Active"
+      },
+      {
+        "name": "Diabetic Retinopathy",
+        "since": "02-12-2024",
+        "severity": "Mild",
+        "status": "Active"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Aspirin",
+        "since": "30-12-2024",
+        "severity": "Moderate",
+        "reaction": "Nausea"
+      }
+    ]
+  },
+  {
+    "patient_id": "685cf29f04a6c31893801620",
+    "vascular_access": {
+      "value": "AV Fistula",
+      "created": "30-12-2023"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "67"
+    },
+    "dialysis_runtime": {
+      "hours": 4,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "435"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "728"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "36.7"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "26"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Multi"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Regular (Systemic)"
+      }
+    ],
+    "diagnosis": "End-stage renal disease due to hypertensive nephrosclerosis. Minimal history of cardiovascular complications, currently stable on dialysis.",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf29f04a6c31893801620",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "14-06-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "20-07-2024",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-26T17:44:53.900348Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-26T17:44:53.900354Z"
+      },
+      "created_by": "685c1ef404a6c3189380144c",
+      "updated_by": "685c1ef404a6c3189380144c"
+    },
+    "serology": [
+      {
+        "test": "EBV IgG",
+        "result": "Reactive",
+        "date": "05-06-2022"
+      },
+      {
+        "test": "CMV IgM",
+        "result": "Negative",
+        "date": "17-12-2021"
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Atrial Fibrillation",
+        "since": "18-10-2021",
+        "severity": "Mild",
+        "status": "Controlled"
+      },
+      {
+        "name": "Secondary Hyperparathyroidism",
+        "since": "18-08-2021",
+        "severity": "Mild",
+        "status": "Active"
+      },
+      {
+        "name": "Peripheral Vascular Disease",
+        "since": "20-07-2023",
+        "severity": "Mild",
+        "status": "Active"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Dust",
+        "since": "27-11-2024",
+        "severity": "Severe",
+        "reaction": "Skin irritation"
+      },
+      {
+        "allergen": "Contrast Dye",
+        "since": "16-05-2023",
+        "severity": "Moderate",
+        "reaction": "Anaphylaxis"
+      }
+    ]
+  },
+  {
+    "patient_id": "685cf2a004a6c31893801650",
+    "vascular_access": {
+      "value": "AV Fistula",
+      "created": "05-11-2023"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "48"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "323"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "501"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "36.3"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "25"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Single"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Rigid"
+      }
+    ],
+    "diagnosis": "Glomerulonephritis leading to chronic kidney disease. Patient has Satisfactory response to dialysis therapy over the past 3 years.",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a004a6c31893801650",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "16-11-2023",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "08-12-2023",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-26T17:44:53.900448Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-26T17:44:53.900453Z"
+      },
+      "created_by": "685c1ef404a6c3189380144c",
+      "updated_by": "685c1ef404a6c3189380144c"
+    },
+    "serology": [
+      {
+        "test": "EBV IgG",
+        "result": "Reactive",
+        "date": "03-05-2024"
+      },
+      {
+        "test": "Hepatitis A IgG",
+        "result": "Non-Reactive",
+        "date": "01-07-2024"
+      },
+      {
+        "test": "HIV",
+        "result": "Positive",
+        "date": "16-10-2020"
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Peripheral Vascular Disease",
+        "since": "03-09-2023",
+        "severity": "Severe",
+        "status": "In Remission"
+      },
+      {
+        "name": "Secondary Hyperparathyroidism",
+        "since": "29-10-2020",
+        "severity": "Severe",
+        "status": "Active"
+      },
+      {
+        "name": "Diabetic Retinopathy",
+        "since": "22-03-2023",
+        "severity": "Severe",
+        "status": "Active"
+      }
+    ],
+    "allergies": []
+  },
+  {
+    "patient_id": "685cf2a104a6c3189380167e",
+    "vascular_access": {
+      "value": "AV Graft",
+      "created": "08-08-2023"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "56"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "373"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "662"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "36.2"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "32"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Multi"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Free"
+      }
+    ],
+    "diagnosis": "Chronic kidney disease secondary to chronic glomerulonephritis. Uncomplicated course with minimal vascular access complications.",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a104a6c3189380167e",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "17-04-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "25-05-2024",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a104a6c3189380167e",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "11-09-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a104a6c3189380167e",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "01-05-2025",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-26T17:44:53.900572Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-26T17:44:53.900576Z"
+      },
+      "created_by": "685c1ef404a6c3189380144c",
+      "updated_by": "685c1ef404a6c3189380144c"
+    },
+    "serology": [
+      {
+        "test": "HIV",
+        "result": "Negative",
+        "date": "05-04-2022"
+      },
+      {
+        "test": "HBsAg",
+        "result": "Negative",
+        "date": "02-07-2022"
+      },
+      {
+        "test": "VDRL",
+        "result": "Negative",
+        "date": "18-02-2022"
+      },
+      {
+        "test": "CMV IgM",
+        "result": "Reactive",
+        "date": "02-03-2024"
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Secondary Hyperparathyroidism",
+        "since": "23-09-2022",
+        "severity": "Mild",
+        "status": "Active"
+      },
+      {
+        "name": "Coronary Artery Disease",
+        "since": "24-06-2025",
+        "severity": "Severe",
+        "status": "In Remission"
+      },
+      {
+        "name": "Mineral and Bone Disorder",
+        "since": "29-03-2022",
+        "severity": "Moderate",
+        "status": "Active"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Cat Dander",
+        "since": "10-01-2022",
+        "severity": "Moderate",
+        "reaction": "Hives"
+      },
+      {
+        "allergen": "Contrast Dye",
+        "since": "15-04-2021",
+        "severity": "Severe",
+        "reaction": "Difficulty breathing"
+      }
+    ]
+  },
+  {
+    "patient_id": "685cf2a104a6c318938016ad",
+    "vascular_access": {
+      "value": "Internal Jugular Vein (IJV)",
+      "created": "24-03-2024"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "50"
+    },
+    "dialysis_runtime": {
+      "hours": 4,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "434"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "630"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "35.7"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "28"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Single"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Free"
+      }
+    ],
+    "diagnosis": "End-stage renal disease due to hypertensive nephrosclerosis. Significant history of cardiovascular complications, currently stable on dialysis.",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a104a6c318938016ad",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "17-11-2023",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a104a6c318938016ad",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "02-12-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a104a6c318938016ad",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "23-04-2025",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-26T17:44:53.900699Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-26T17:44:53.900703Z"
+      },
+      "created_by": "685c1ef404a6c3189380144c",
+      "updated_by": "685c1ef404a6c3189380144c"
+    },
+    "serology": [
+      {
+        "test": "Anti-HBs",
+        "result": "Negative",
+        "date": "15-03-2021"
+      },
+      {
+        "test": "Anti-HBc",
+        "result": "Non-Reactive",
+        "date": "11-04-2025"
+      },
+      {
+        "test": "CMV IgG",
+        "result": "Reactive",
+        "date": "30-06-2022"
+      },
+      {
+        "test": "Hepatitis A IgG",
+        "result": "Positive",
+        "date": "15-04-2024"
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Cardiovascular Disease",
+        "since": "14-11-2024",
+        "severity": "Mild",
+        "status": "In Remission"
+      },
+      {
+        "name": "Peripheral Vascular Disease",
+        "since": "01-03-2021",
+        "severity": "Moderate",
+        "status": "Active"
+      },
+      {
+        "name": "Secondary Hyperparathyroidism",
+        "since": "29-08-2022",
+        "severity": "Severe",
+        "status": "Controlled"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Cat Dander",
+        "since": "25-06-2021",
+        "severity": "Mild",
+        "reaction": "Hives"
+      },
+      {
+        "allergen": "Pollen",
+        "since": "17-06-2025",
+        "severity": "Moderate",
+        "reaction": "Rash"
+      }
+    ]
+  },
+  {
+    "patient_id": "685cf2a304a6c318938016dc",
+    "vascular_access": {
+      "value": "AV Graft",
+      "created": "29-01-2024"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "48"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "370"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "676"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "36.6"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "25"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Single"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Free"
+      }
+    ],
+    "diagnosis": "Glomerulonephritis leading to chronic kidney disease. Patient has Excellent response to dialysis therapy over the past 3 years.",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a304a6c318938016dc",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "19-06-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "31-07-2024",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-26T17:44:53.900796Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-26T17:44:53.900800Z"
+      },
+      "created_by": "685c1ef404a6c3189380144c",
+      "updated_by": "685c1ef404a6c3189380144c"
+    },
+    "serology": [
+      {
+        "test": "VDRL",
+        "result": "Negative",
+        "date": "16-06-2023"
+      },
+      {
+        "test": "Hepatitis A IgG",
+        "result": "Negative",
+        "date": "31-12-2023"
+      },
+      {
+        "test": "EBV IgG",
+        "result": "Non-Reactive",
+        "date": "25-02-2022"
+      },
+      {
+        "test": "Anti-HBs",
+        "result": "Non-Reactive",
+        "date": "15-05-2023"
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Hypertension",
+        "since": "21-08-2021",
+        "severity": "Moderate",
+        "status": "In Remission"
+      }
+    ],
+    "allergies": []
+  },
+  {
+    "patient_id": "685cf2a304a6c3189380170b",
+    "vascular_access": {
+      "value": "Internal Jugular Vein (IJV)",
+      "created": "09-07-2023"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "65"
+    },
+    "dialysis_runtime": {
+      "hours": 4,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "385"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "587"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "36.8"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "28"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Multi"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Rigid"
+      }
+    ],
+    "diagnosis": "End-stage renal disease, likely secondary to diabetes mellitus. Patient shows Excellent compliance with dialysis regimen.",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a304a6c3189380170b",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "27-07-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "22-08-2024",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a304a6c3189380170b",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "22-05-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-26T17:44:53.900919Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-26T17:44:53.900924Z"
+      },
+      "created_by": "685c1ef404a6c3189380144c",
+      "updated_by": "685c1ef404a6c3189380144c"
+    },
+    "serology": [
+      {
+        "test": "EBV IgG",
+        "result": "Non-Reactive",
+        "date": "16-10-2024"
+      },
+      {
+        "test": "Hepatitis A IgG",
+        "result": "Reactive",
+        "date": "10-09-2022"
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Cardiovascular Disease",
+        "since": "02-12-2024",
+        "severity": "Moderate",
+        "status": "In Remission"
+      }
+    ],
+    "allergies": []
+  },
+  {
+    "patient_id": "685cf2a504a6c31893801743",
+    "vascular_access": {
+      "value": "Perm Catheter",
+      "created": "08-10-2022"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "53"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "418"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "662"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "36.2"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "29"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Multi"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Rigid"
+      }
+    ],
+    "diagnosis": "Glomerulonephritis leading to chronic kidney disease. Patient has Excellent response to dialysis therapy over the past 1 years.",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a504a6c31893801743",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "25-06-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a504a6c31893801743",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "19-08-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a504a6c31893801743",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "12-10-2024",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-26T17:44:53.901025Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-26T17:44:53.901029Z"
+      },
+      "created_by": "685c1ef404a6c3189380144c",
+      "updated_by": "685c1ef404a6c3189380144c"
+    },
+    "serology": [
+      {
+        "test": "HBeAg",
+        "result": "Positive",
+        "date": "11-02-2024"
+      },
+      {
+        "test": "Anti-HBc",
+        "result": "Negative",
+        "date": "22-03-2022"
+      },
+      {
+        "test": "Anti-HCV",
+        "result": "Negative",
+        "date": "17-04-2021"
+      },
+      {
+        "test": "Anti-HBs",
+        "result": "Reactive",
+        "date": "29-04-2025"
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Mineral and Bone Disorder",
+        "since": "21-08-2021",
+        "severity": "Mild",
+        "status": "Controlled"
+      },
+      {
+        "name": "Coronary Artery Disease",
+        "since": "04-06-2024",
+        "severity": "Severe",
+        "status": "In Remission"
+      },
+      {
+        "name": "Cardiovascular Disease",
+        "since": "03-12-2022",
+        "severity": "Severe",
+        "status": "Active"
+      }
+    ],
+    "allergies": []
+  },
+  {
+    "patient_id": "685cf2a604a6c31893801772",
+    "vascular_access": {
+      "value": "AV Graft",
+      "created": "03-04-2024"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "45"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "430"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "681"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "36.6"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "30"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Multi"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Rigid"
+      }
+    ],
+    "diagnosis": "Polycystic kidney disease with progression to end-stage renal disease. Improving on dialysis with improving overall clinical status.",
+    "vaccination": [],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-26T17:44:53.901084Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-26T17:44:53.901089Z"
+      },
+      "created_by": "685c1ef404a6c3189380144c",
+      "updated_by": "685c1ef404a6c3189380144c"
+    },
+    "serology": [
+      {
+        "test": "CMV IgG",
+        "result": "Negative",
+        "date": "15-06-2024"
+      },
+      {
+        "test": "EBV IgG",
+        "result": "Positive",
+        "date": "16-10-2022"
+      },
+      {
+        "test": "Anti-HBc",
+        "result": "Positive",
+        "date": "07-07-2023"
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Anemia",
+        "since": "02-04-2023",
+        "severity": "Severe",
+        "status": "Controlled"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Milk",
+        "since": "18-08-2023",
+        "severity": "Mild",
+        "reaction": "Rash"
+      },
+      {
+        "allergen": "Heparin",
+        "since": "05-12-2023",
+        "severity": "Mild",
+        "reaction": "Swelling"
+      }
+    ]
+  },
+  {
+    "patient_id": "685cf2a604a6c318938017a1",
+    "vascular_access": {
+      "value": "AV Fistula",
+      "created": "11-09-2022"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "54"
+    },
+    "dialysis_runtime": {
+      "hours": 4,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "311"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "725"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "35.5"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "29"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Single"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Free"
+      }
+    ],
+    "diagnosis": "End-stage renal disease due to hypertensive nephrosclerosis. Minimal history of cardiovascular complications, currently stable on dialysis.",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a604a6c318938017a1",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "10-11-2023",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "11-12-2023",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a604a6c318938017a1",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "31-10-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-26T17:44:53.901182Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-26T17:44:53.901185Z"
+      },
+      "created_by": "685c1ef404a6c3189380144c",
+      "updated_by": "685c1ef404a6c3189380144c"
+    },
+    "serology": [
+      {
+        "test": "EBV IgG",
+        "result": "Reactive",
+        "date": "01-11-2022"
+      },
+      {
+        "test": "HIV",
+        "result": "Negative",
+        "date": "16-10-2021"
+      },
+      {
+        "test": "CMV IgG",
+        "result": "Negative",
+        "date": "26-07-2020"
+      },
+      {
+        "test": "Hepatitis A IgG",
+        "result": "Positive",
+        "date": "14-09-2020"
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Chronic Heart Failure",
+        "since": "10-10-2020",
+        "severity": "Severe",
+        "status": "Active"
+      },
+      {
+        "name": "Mineral and Bone Disorder",
+        "since": "22-08-2023",
+        "severity": "Moderate",
+        "status": "Controlled"
+      },
+      {
+        "name": "Diabetic Neuropathy",
+        "since": "21-04-2025",
+        "severity": "Severe",
+        "status": "Controlled"
+      }
+    ],
+    "allergies": []
+  },
+  {
+    "patient_id": "685cf2a704a6c318938017d0",
+    "vascular_access": {
+      "value": "Femoral Catheter",
+      "created": "02-02-2023"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "61"
+    },
+    "dialysis_runtime": {
+      "hours": 4,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "408"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "520"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "35.7"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "32"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Multi"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Rigid"
+      }
+    ],
+    "diagnosis": "Chronic kidney disease Stage 5, etiology unclear. Patient initiated on dialysis 17 months ago with satisfactory adaptation to treatment.",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a704a6c318938017d0",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "07-08-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "14-09-2024",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a704a6c318938017d0",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "11-11-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a704a6c318938017d0",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "20-10-2024",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-26T17:44:53.901292Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-26T17:44:53.901296Z"
+      },
+      "created_by": "685c1ef404a6c3189380144c",
+      "updated_by": "685c1ef404a6c3189380144c"
+    },
+    "serology": [
+      {
+        "test": "CMV IgG",
+        "result": "Reactive",
+        "date": "06-05-2023"
+      },
+      {
+        "test": "Anti-HBc",
+        "result": "Non-Reactive",
+        "date": "25-10-2021"
+      },
+      {
+        "test": "HIV",
+        "result": "Negative",
+        "date": "11-07-2023"
+      },
+      {
+        "test": "EBV IgG",
+        "result": "Reactive",
+        "date": "07-09-2023"
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Anemia",
+        "since": "01-08-2022",
+        "severity": "Severe",
+        "status": "In Remission"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Heparin",
+        "since": "10-10-2023",
+        "severity": "Severe",
+        "reaction": "Swelling"
+      },
+      {
+        "allergen": "Penicillin",
+        "since": "27-03-2023",
+        "severity": "Mild",
+        "reaction": "Nausea"
+      }
+    ]
+  },
+  {
+    "patient_id": "685cf2a804a6c318938017ff",
+    "vascular_access": {
+      "value": "Perm Catheter",
+      "created": "28-04-2024"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "58"
+    },
+    "dialysis_runtime": {
+      "hours": 4,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "423"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "680"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "35.8"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "27"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Multi"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Rigid"
+      }
+    ],
+    "diagnosis": "Chronic kidney disease Stage 5, etiology unclear. Patient initiated on dialysis 12 months ago with satisfactory adaptation to treatment.",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a804a6c318938017ff",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "04-06-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "14-07-2024",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a804a6c318938017ff",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "18-08-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a804a6c318938017ff",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "25-04-2025",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-26T17:44:53.901403Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-26T17:44:53.901407Z"
+      },
+      "created_by": "685c1ef404a6c3189380144c",
+      "updated_by": "685c1ef404a6c3189380144c"
+    },
+    "serology": [
+      {
+        "test": "CMV IgM",
+        "result": "Reactive",
+        "date": "17-10-2020"
+      },
+      {
+        "test": "EBV IgG",
+        "result": "Non-Reactive",
+        "date": "02-05-2022"
+      },
+      {
+        "test": "Anti-HBs",
+        "result": "Positive",
+        "date": "07-04-2021"
+      },
+      {
+        "test": "HIV",
+        "result": "Positive",
+        "date": "08-11-2022"
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Cardiovascular Disease",
+        "since": "21-01-2025",
+        "severity": "Mild",
+        "status": "In Remission"
+      },
+      {
+        "name": "Chronic Heart Failure",
+        "since": "05-08-2023",
+        "severity": "Mild",
+        "status": "Active"
+      },
+      {
+        "name": "Atrial Fibrillation",
+        "since": "12-12-2020",
+        "severity": "Moderate",
+        "status": "Active"
+      }
+    ],
+    "allergies": []
+  },
+  {
+    "patient_id": "685cf2a904a6c3189380182e",
+    "vascular_access": {
+      "value": "AV Fistula",
+      "created": "10-10-2022"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "51"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "423"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "524"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "35.9"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "32"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Multi"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Rigid"
+      }
+    ],
+    "diagnosis": "End-stage renal disease, likely secondary to diabetes mellitus. Patient shows Excellent compliance with dialysis regimen.",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a904a6c3189380182e",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "15-11-2023",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "14-12-2023",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a904a6c3189380182e",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "08-06-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-26T17:44:53.901512Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-26T17:44:53.901517Z"
+      },
+      "created_by": "685c1ef404a6c3189380144c",
+      "updated_by": "685c1ef404a6c3189380144c"
+    },
+    "serology": [
+      {
+        "test": "HIV",
+        "result": "Negative",
+        "date": "03-04-2023"
+      },
+      {
+        "test": "Anti-HCV",
+        "result": "Negative",
+        "date": "16-04-2024"
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Diabetic Neuropathy",
+        "since": "23-03-2024",
+        "severity": "Mild",
+        "status": "Controlled"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Sulfa Drugs",
+        "since": "03-07-2020",
+        "severity": "Severe",
+        "reaction": "Anaphylaxis"
+      }
+    ]
+  },
+  {
+    "patient_id": "685cf2aa04a6c3189380185d",
+    "vascular_access": {
+      "value": "Femoral Catheter",
+      "created": "27-04-2023"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "65"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "312"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "707"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "35.8"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "25"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Single"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Rigid"
+      }
+    ],
+    "diagnosis": "Chronic kidney disease secondary to chronic glomerulonephritis. Smooth course with no significant vascular access complications.",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380185d",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "29-03-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "02-05-2024",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380185d",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "27-09-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-26T17:44:53.901623Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-26T17:44:53.902614Z"
+      },
+      "created_by": "685c1ef404a6c3189380144c",
+      "updated_by": "685c1ef404a6c3189380144c"
+    },
+    "serology": [
+      {
+        "test": "Hepatitis A IgG",
+        "result": "Reactive",
+        "date": "10-03-2025"
+      },
+      {
+        "test": "VDRL",
+        "result": "Negative",
+        "date": "01-05-2023"
+      },
+      {
+        "test": "EBV IgG",
+        "result": "Non-Reactive",
+        "date": "18-04-2023"
+      },
+      {
+        "test": "HBsAg",
+        "result": "Positive",
+        "date": "11-07-2021"
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Atrial Fibrillation",
+        "since": "06-07-2020",
+        "severity": "Mild",
+        "status": "Controlled"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Eggs",
+        "since": "04-11-2020",
+        "severity": "Mild",
+        "reaction": "Skin irritation"
+      },
+      {
+        "allergen": "Nuts",
+        "since": "22-08-2020",
+        "severity": "Mild",
+        "reaction": "Swelling"
+      }
+    ]
+  },
+  {
+    "patient_id": "685cf2aa04a6c3189380188c",
+    "vascular_access": {
+      "value": "AV Graft",
+      "created": "26-05-2023"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "48"
+    },
+    "dialysis_runtime": {
+      "hours": 4,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "416"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "716"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "36.1"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "29"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Multi"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Free"
+      }
+    ],
+    "diagnosis": "Chronic kidney disease Stage 5, etiology unclear. Patient initiated on dialysis 18 months ago with good adaptation to treatment.",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380188c",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "15-01-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "08-02-2024",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380188c",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "25-06-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-26T17:44:53.902734Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-26T17:44:53.902739Z"
+      },
+      "created_by": "685c1ef404a6c3189380144c",
+      "updated_by": "685c1ef404a6c3189380144c"
+    },
+    "serology": [
+      {
+        "test": "Anti-HCV",
+        "result": "Positive",
+        "date": "03-10-2024"
+      },
+      {
+        "test": "VDRL",
+        "result": "Negative",
+        "date": "07-02-2021"
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Cardiovascular Disease",
+        "since": "17-08-2020",
+        "severity": "Severe",
+        "status": "Active"
+      }
+    ],
+    "allergies": []
+  },
+  {
+    "patient_id": "685cf2ab04a6c318938018bb",
+    "vascular_access": {
+      "value": "Internal Jugular Vein (IJV)",
+      "created": "24-04-2024"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "53"
+    },
+    "dialysis_runtime": {
+      "hours": 4,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "360"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "534"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "36.2"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "25"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Multi"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Free"
+      }
+    ],
+    "diagnosis": "Chronic kidney disease secondary to chronic glomerulonephritis. Uncomplicated course with minimal vascular access complications.",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ab04a6c318938018bb",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "20-11-2023",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ab04a6c318938018bb",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "16-12-2024",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-26T17:44:53.902824Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-26T17:44:53.902826Z"
+      },
+      "created_by": "685c1ef404a6c3189380144c",
+      "updated_by": "685c1ef404a6c3189380144c"
+    },
+    "serology": [
+      {
+        "test": "HBeAg",
+        "result": "Reactive",
+        "date": "23-06-2023"
+      },
+      {
+        "test": "CMV IgM",
+        "result": "Negative",
+        "date": "18-11-2020"
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Mineral and Bone Disorder",
+        "since": "04-12-2024",
+        "severity": "Moderate",
+        "status": "Controlled"
+      }
+    ],
+    "allergies": []
+  },
+  {
+    "patient_id": "685cf2ac04a6c318938018ea",
+    "vascular_access": {
+      "value": "Perm Catheter",
+      "created": "23-08-2022"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "58"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "401"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "586"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "36.0"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "30"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Single"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Rigid"
+      }
+    ],
+    "diagnosis": "Chronic kidney disease Stage 5, secondary to diabetic nephropathy. Patient has been on hemodialysis for 3 years with excellent compliance and stable vascular access.",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ac04a6c318938018ea",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "19-03-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "15-04-2024",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-26T17:44:53.902865Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-26T17:44:53.902867Z"
+      },
+      "created_by": "685c1ef404a6c3189380144c",
+      "updated_by": "685c1ef404a6c3189380144c"
+    },
+    "serology": [
+      {
+        "test": "HBsAg",
+        "result": "Negative",
+        "date": "25-08-2020"
+      },
+      {
+        "test": "Anti-HBc",
+        "result": "Non-Reactive",
+        "date": "30-01-2023"
+      },
+      {
+        "test": "CMV IgM",
+        "result": "Non-Reactive",
+        "date": "12-05-2024"
+      },
+      {
+        "test": "Anti-HCV",
+        "result": "Positive",
+        "date": "12-04-2024"
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Mineral and Bone Disorder",
+        "since": "13-06-2024",
+        "severity": "Severe",
+        "status": "In Remission"
+      },
+      {
+        "name": "Peripheral Vascular Disease",
+        "since": "26-08-2022",
+        "severity": "Mild",
+        "status": "In Remission"
+      },
+      {
+        "name": "Chronic Heart Failure",
+        "since": "26-10-2022",
+        "severity": "Mild",
+        "status": "Active"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Pollen",
+        "since": "30-08-2024",
+        "severity": "Mild",
+        "reaction": "Nausea"
+      },
+      {
+        "allergen": "Milk",
+        "since": "06-11-2022",
+        "severity": "Moderate",
+        "reaction": "Swelling"
+      }
+    ]
+  },
+  {
+    "patient_id": "685cf2ad04a6c3189380191c",
+    "vascular_access": {
+      "value": "AV Graft",
+      "created": "07-10-2022"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "47"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "417"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "557"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "37.0"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "26"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Single"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Regular (Systemic)"
+      }
+    ],
+    "diagnosis": "Chronic kidney disease secondary to chronic glomerulonephritis. Uncomplicated course with minimal vascular access complications.",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ad04a6c3189380191c",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "18-02-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "25-03-2024",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ad04a6c3189380191c",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "07-03-2025",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ad04a6c3189380191c",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "08-02-2025",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-26T17:44:53.902913Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-26T17:44:53.902915Z"
+      },
+      "created_by": "685c1ef404a6c3189380144c",
+      "updated_by": "685c1ef404a6c3189380144c"
+    },
+    "serology": [
+      {
+        "test": "EBV IgG",
+        "result": "Negative",
+        "date": "09-12-2022"
+      },
+      {
+        "test": "CMV IgM",
+        "result": "Positive",
+        "date": "19-02-2024"
+      },
+      {
+        "test": "Anti-HBs",
+        "result": "Reactive",
+        "date": "25-08-2020"
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Coronary Artery Disease",
+        "since": "28-03-2022",
+        "severity": "Moderate",
+        "status": "Active"
+      },
+      {
+        "name": "Diabetic Neuropathy",
+        "since": "01-10-2020",
+        "severity": "Moderate",
+        "status": "Controlled"
+      },
+      {
+        "name": "Diabetes Mellitus Type 2",
+        "since": "20-07-2022",
+        "severity": "Severe",
+        "status": "In Remission"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Adhesive Tape",
+        "since": "11-06-2025",
+        "severity": "Mild",
+        "reaction": "Nausea"
+      },
+      {
+        "allergen": "Latex",
+        "since": "19-08-2022",
+        "severity": "Mild",
+        "reaction": "Skin irritation"
+      }
+    ]
+  },
+  {
+    "patient_id": "685cf2e704a6c31893801948",
+    "vascular_access": {
+      "value": "AV Graft",
+      "created": "08-03-2024"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "75"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "425"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "712"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "36.5"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "29"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Multi"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Free"
+      }
+    ],
+    "diagnosis": "Chronic kidney disease Stage 5, secondary to diabetic nephropathy. Patient has been on hemodialysis for 4 years with fair compliance and patent vascular access.",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2e704a6c31893801948",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "09-02-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "18-03-2024",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2e704a6c31893801948",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "30-08-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-26T17:44:53.902977Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-26T17:44:53.902979Z"
+      },
+      "created_by": "685c1ef404a6c3189380144c",
+      "updated_by": "685c1ef404a6c3189380144c"
+    },
+    "serology": [
+      {
+        "test": "Anti-HBs",
+        "result": "Non-Reactive",
+        "date": "30-11-2022"
+      },
+      {
+        "test": "Hepatitis A IgG",
+        "result": "Positive",
+        "date": "27-01-2024"
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Cardiovascular Disease",
+        "since": "17-10-2024",
+        "severity": "Mild",
+        "status": "In Remission"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Iodine",
+        "since": "18-11-2022",
+        "severity": "Mild",
+        "reaction": "Nausea"
+      }
+    ]
+  }
+]

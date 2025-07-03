@@ -1,0 +1,52 @@
+{
+    "orgId": "generated_org_id",
+    "startDate": "2025-01-01",
+    "timeslots": [
+      {
+        "daysOfWeek": [1,2,3,4,5,6],
+        "slots": [
+          {
+            "code": "MORNING",
+            "start": 6,
+            "end": 11,
+            "startLabel": "6 am",
+            "endLabel": "11 am",
+            "order": 1,
+            "remindBeforeHours": 24
+          },
+          {
+            "code": "AFTERNOON", 
+            "start": 11,
+            "end": 16,
+            "startLabel": "11 am",
+            "endLabel": "4 pm",
+            "order": 2,
+            "remindBeforeHours": 24
+          },
+          {
+            "code": "EVENING",
+            "start": 16,
+            "end": 21,
+            "startLabel": "4 pm", 
+            "endLabel": "9 pm",
+            "order": 3,
+            "remindBeforeHours": 24
+          }
+        ]
+      },
+      {
+        "daysOfWeek": [0],
+        "slots": [
+          {
+            "code": "ELECTIVE_EMERGENCY",
+            "start": 0,
+            "end": 23,
+            "startLabel": "Available",
+            "endLabel": "24/7",
+            "order": 1,
+            "remindBeforeHours": 24
+          }
+        ]
+      }
+    ]
+  }

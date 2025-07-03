@@ -1,0 +1,6624 @@
+[
+  {
+    "patient_id": "685cf29e04a6c318938015f1",
+    "vascular_access": {
+      "value": "AV Graft",
+      "created": "16-05-2025"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "69.8"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 30
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "410"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "608"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "35.5"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "29"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Multi"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Regular (Systemic)"
+      }
+    ],
+    "diagnosis": "Chronic Interstitial Nephritis, likely analgesic-induced, with chronic kidney disease Stage 5 and history of chronic pain syndrome",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf29e04a6c318938015f1",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "22-08-2017",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "14-09-2017",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "23-02-2018",
+            "count": 3,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf29e04a6c318938015f1",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "21-06-2023",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "05-06-2024",
+            "count": 2,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "27-06-2025",
+            "count": 3,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf29e04a6c318938015f1",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "27-08-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "10-09-2021",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "22-02-2022",
+            "count": 3,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "27-08-2022",
+            "count": 4,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf29e04a6c318938015f1",
+        "infection": "Pneumococcal",
+        "shots": [
+          {
+            "date": "24-09-2022",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "23-09-2023",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf29e04a6c318938015f1",
+        "infection": "Tetanus/Tdap",
+        "shots": [
+          {
+            "date": "23-08-2018",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "16-08-2028",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf29e04a6c318938015f1",
+        "infection": "Meningococcal ACWY",
+        "shots": [
+          {
+            "date": "18-11-2016",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "16-11-2021",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf29e04a6c318938015f1",
+        "infection": "MMR",
+        "shots": [
+          {
+            "date": "07-07-1998",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "05-08-1998",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-03-11T19:01:53.752676Z"
+      },
+      "updated_on": {
+        "$date": "2025-03-11T19:01:53.752676Z"
+      },
+      "created_by": "685c1f7404a6c3189380148e",
+      "updated_by": "685c1f7404a6c3189380148e"
+    }
+  },
+  {
+    "patient_id": "685cf29f04a6c31893801620",
+    "vascular_access": {
+      "value": "AV Fistula",
+      "created": "07-11-2024"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "73.1"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 30
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "486"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "575"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "36.2"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "33"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Multi"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Free"
+      }
+    ],
+    "diagnosis": "Ischemic Nephropathy secondary to renovascular disease, with chronic kidney disease Stage 5, peripheral arterial disease, and history of myocardial infarction",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf29f04a6c31893801620",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "09-11-2022",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "02-12-2022",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "08-05-2023",
+            "count": 3,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf29f04a6c31893801620",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "06-07-2023",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "07-06-2024",
+            "count": 2,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "16-07-2025",
+            "count": 3,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf29f04a6c31893801620",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "16-05-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "05-06-2021",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "16-11-2021",
+            "count": 3,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "23-05-2022",
+            "count": 4,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf29f04a6c31893801620",
+        "infection": "Pneumococcal",
+        "shots": [
+          {
+            "date": "08-03-2017",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "10-03-2018",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf29f04a6c31893801620",
+        "infection": "Tetanus/Tdap",
+        "shots": [
+          {
+            "date": "27-08-2023",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "30-08-2033",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf29f04a6c31893801620",
+        "infection": "Meningococcal ACWY",
+        "shots": [
+          {
+            "date": "22-12-2023",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "13-12-2028",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf29f04a6c31893801620",
+        "infection": "Shingles/Zoster",
+        "shots": [
+          {
+            "date": "12-04-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "17-06-2024",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf29f04a6c31893801620",
+        "infection": "Hepatitis A",
+        "shots": [
+          {
+            "date": "09-01-2022",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf29f04a6c31893801620",
+        "infection": "Japanese Encephalitis",
+        "shots": [
+          {
+            "date": "23-02-2020",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "23-03-2020",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf29f04a6c31893801620",
+        "infection": "Typhoid",
+        "shots": [
+          {
+            "date": "08-05-2020",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-03-15T19:01:53.752797Z"
+      },
+      "updated_on": {
+        "$date": "2025-03-15T19:01:53.752797Z"
+      },
+      "created_by": "685c1f0704a6c31893801457",
+      "updated_by": "685c1f0704a6c31893801457"
+    }
+  },
+  {
+    "patient_id": "685cf2a004a6c3189380164f",
+    "vascular_access": {
+      "value": "Femoral Catheter",
+      "created": "10-12-2024"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "51.2"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 30
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "399"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "795"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "36.3"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "24"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Single"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Free"
+      }
+    ],
+    "diagnosis": "Hypertensive Nephrosclerosis with chronic kidney disease Stage 5, resistant hypertension on multiple antihypertensive medications",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a004a6c3189380164f",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "08-01-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "05-02-2021",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "05-07-2021",
+            "count": 3,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a004a6c3189380164f",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "19-07-2023",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "09-07-2024",
+            "count": 2,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "30-06-2025",
+            "count": 3,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a004a6c3189380164f",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "16-06-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "09-07-2021",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "19-12-2021",
+            "count": 3,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "19-06-2022",
+            "count": 4,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a004a6c3189380164f",
+        "infection": "Pneumococcal",
+        "shots": [
+          {
+            "date": "24-12-2019",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "30-12-2020",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a004a6c3189380164f",
+        "infection": "Tetanus/Tdap",
+        "shots": [
+          {
+            "date": "10-01-2017",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "05-01-2027",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a004a6c3189380164f",
+        "infection": "MMR",
+        "shots": [
+          {
+            "date": "06-07-2002",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "05-08-2002",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a004a6c3189380164f",
+        "infection": "Varicella",
+        "shots": [
+          {
+            "date": "06-07-2000",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a004a6c3189380164f",
+        "infection": "Hepatitis A",
+        "shots": [
+          {
+            "date": "09-12-2019",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "08-06-2020",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a004a6c3189380164f",
+        "infection": "Typhoid",
+        "shots": [
+          {
+            "date": "20-09-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-04-30T19:01:53.752900Z"
+      },
+      "updated_on": {
+        "$date": "2025-04-30T19:01:53.752900Z"
+      },
+      "created_by": "685c1f4704a6c31893801478",
+      "updated_by": "685c1f4704a6c31893801478"
+    }
+  },
+  {
+    "patient_id": "685cf2a104a6c3189380167e",
+    "vascular_access": {
+      "value": "AV Graft",
+      "created": "04-02-2025"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "80.6"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 30
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "408"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "530"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "36.6"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "31"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Single"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Rigid"
+      }
+    ],
+    "diagnosis": "Polycystic Kidney Disease (ADPKD) with multiple bilateral renal cysts, chronic kidney disease Stage 5, and family history of PKD",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a104a6c3189380167e",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "01-01-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "26-01-2021",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "04-07-2021",
+            "count": 3,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a104a6c3189380167e",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "10-06-2023",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "27-07-2024",
+            "count": 2,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "06-06-2025",
+            "count": 3,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a104a6c3189380167e",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "10-01-2022",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "26-01-2022",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "07-07-2022",
+            "count": 3,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "17-01-2023",
+            "count": 4,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a104a6c3189380167e",
+        "infection": "Pneumococcal",
+        "shots": [
+          {
+            "date": "30-08-2023",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "05-09-2024",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a104a6c3189380167e",
+        "infection": "Tetanus/Tdap",
+        "shots": [
+          {
+            "date": "16-02-2016",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "09-02-2026",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a104a6c3189380167e",
+        "infection": "Meningococcal ACWY",
+        "shots": [
+          {
+            "date": "11-05-2020",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "09-05-2025",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a104a6c3189380167e",
+        "infection": "Hepatitis A",
+        "shots": [
+          {
+            "date": "04-02-2016",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a104a6c3189380167e",
+        "infection": "Typhoid",
+        "shots": [
+          {
+            "date": "04-04-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-04-18T19:01:53.752987Z"
+      },
+      "updated_on": {
+        "$date": "2025-04-18T19:01:53.752987Z"
+      },
+      "created_by": "685c1f9e04a6c318938014a4",
+      "updated_by": "685c1f9e04a6c318938014a4"
+    }
+  },
+  {
+    "patient_id": "685cf2a104a6c318938016ad",
+    "vascular_access": {
+      "value": "Internal Jugular Vein (IJV)",
+      "created": "13-03-2025"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "48.5"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "390"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "713"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "36.6"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "31"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Multi"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Free"
+      }
+    ],
+    "diagnosis": "Hypertensive Nephrosclerosis with chronic kidney disease Stage 5, resistant hypertension on multiple antihypertensive medications",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a104a6c318938016ad",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "11-06-2017",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "10-07-2017",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "12-12-2017",
+            "count": 3,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a104a6c318938016ad",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "16-06-2023",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "05-07-2024",
+            "count": 2,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "09-06-2025",
+            "count": 3,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a104a6c318938016ad",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "12-05-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "02-06-2021",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "04-11-2021",
+            "count": 3,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "11-05-2022",
+            "count": 4,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a104a6c318938016ad",
+        "infection": "Pneumococcal",
+        "shots": [
+          {
+            "date": "08-02-2018",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "07-02-2019",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a104a6c318938016ad",
+        "infection": "Tetanus/Tdap",
+        "shots": [
+          {
+            "date": "05-12-2018",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "09-12-2028",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a104a6c318938016ad",
+        "infection": "Meningococcal ACWY",
+        "shots": [
+          {
+            "date": "05-01-2016",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "31-12-2020",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a104a6c318938016ad",
+        "infection": "MMR",
+        "shots": [
+          {
+            "date": "03-07-2012",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a104a6c318938016ad",
+        "infection": "Hepatitis A",
+        "shots": [
+          {
+            "date": "03-08-2022",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-02-03T19:01:53.753072Z"
+      },
+      "updated_on": {
+        "$date": "2025-02-03T19:01:53.753072Z"
+      },
+      "created_by": "685c1fbe04a6c318938014af",
+      "updated_by": "685c1fbe04a6c318938014af"
+    }
+  },
+  {
+    "patient_id": "685cf2a304a6c318938016dc",
+    "vascular_access": {
+      "value": "AV Fistula",
+      "created": "04-07-2024"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "81.3"
+    },
+    "dialysis_runtime": {
+      "hours": 4,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "470"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "624"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "35.6"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "31"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Multi"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Regular (Systemic)"
+      }
+    ],
+    "diagnosis": "Hypertensive Nephrosclerosis with chronic kidney disease Stage 5, congestive heart failure (EF 35%), and cerebrovascular disease",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a304a6c318938016dc",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "01-04-2019",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "05-05-2019",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "04-10-2019",
+            "count": 3,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a304a6c318938016dc",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "18-07-2023",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "28-07-2024",
+            "count": 2,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "13-07-2025",
+            "count": 3,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a304a6c318938016dc",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "09-06-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "27-06-2021",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "08-12-2021",
+            "count": 3,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "16-06-2022",
+            "count": 4,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a304a6c318938016dc",
+        "infection": "Pneumococcal",
+        "shots": [
+          {
+            "date": "07-09-2019",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "02-09-2020",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a304a6c318938016dc",
+        "infection": "Tetanus/Tdap",
+        "shots": [
+          {
+            "date": "05-09-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "31-08-2031",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a304a6c318938016dc",
+        "infection": "Meningococcal ACWY",
+        "shots": [
+          {
+            "date": "28-05-2019",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "31-05-2024",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a304a6c318938016dc",
+        "infection": "RSV",
+        "shots": [
+          {
+            "date": "07-02-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a304a6c318938016dc",
+        "infection": "Shingles/Zoster",
+        "shots": [
+          {
+            "date": "25-10-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "21-12-2024",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a304a6c318938016dc",
+        "infection": "Typhoid",
+        "shots": [
+          {
+            "date": "24-02-2023",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-08T19:01:53.753170Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-08T19:01:53.753170Z"
+      },
+      "created_by": "685c1f9e04a6c318938014a4",
+      "updated_by": "685c1f9e04a6c318938014a4"
+    }
+  },
+  {
+    "patient_id": "685cf2a304a6c3189380170b",
+    "vascular_access": {
+      "value": "AV Fistula",
+      "created": "10-09-2024"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "63.8"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 30
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "418"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "508"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "37.0"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "33"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Single"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Regular (Systemic)"
+      }
+    ],
+    "diagnosis": "Autosomal Dominant Polycystic Kidney Disease (ADPKD) with massive bilateral kidney enlargement, chronic pain, and recurrent UTIs",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a304a6c3189380170b",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "05-11-2015",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "05-12-2015",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "08-05-2016",
+            "count": 3,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a304a6c3189380170b",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "26-07-2023",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "20-06-2024",
+            "count": 2,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "13-06-2025",
+            "count": 3,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a304a6c3189380170b",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "23-12-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "06-01-2022",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "14-06-2022",
+            "count": 3,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "29-12-2022",
+            "count": 4,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a304a6c3189380170b",
+        "infection": "Pneumococcal",
+        "shots": [
+          {
+            "date": "15-08-2020",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "13-08-2021",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a304a6c3189380170b",
+        "infection": "Tetanus/Tdap",
+        "shots": [
+          {
+            "date": "09-11-2015",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "09-11-2025",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a304a6c3189380170b",
+        "infection": "Meningococcal ACWY",
+        "shots": [
+          {
+            "date": "29-05-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "28-05-2029",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-05-22T19:01:53.753240Z"
+      },
+      "updated_on": {
+        "$date": "2025-05-22T19:01:53.753240Z"
+      },
+      "created_by": "685c1f1c04a6c31893801462",
+      "updated_by": "685c1f1c04a6c31893801462"
+    }
+  },
+  {
+    "patient_id": "685cf2a504a6c31893801743",
+    "vascular_access": {
+      "value": "Perm Catheter",
+      "created": "25-08-2024"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "71.7"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 30
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "303"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "655"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "37.2"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "26"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Single"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Regular (Systemic)"
+      }
+    ],
+    "diagnosis": "Focal Segmental Glomerulosclerosis (FSGS), secondary to obesity, with nephrotic syndrome and steroid resistance",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a504a6c31893801743",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "23-03-2020",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "23-04-2020",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "17-09-2020",
+            "count": 3,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a504a6c31893801743",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "22-06-2023",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "03-07-2024",
+            "count": 2,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "02-06-2025",
+            "count": 3,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a504a6c31893801743",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "01-04-2022",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "17-04-2022",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "30-09-2022",
+            "count": 3,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "30-03-2023",
+            "count": 4,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a504a6c31893801743",
+        "infection": "Pneumococcal",
+        "shots": [
+          {
+            "date": "15-06-2023",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "07-06-2024",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a504a6c31893801743",
+        "infection": "Tetanus/Tdap",
+        "shots": [
+          {
+            "date": "26-01-2020",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "17-01-2030",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a504a6c31893801743",
+        "infection": "Meningococcal ACWY",
+        "shots": [
+          {
+            "date": "14-03-2019",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "17-03-2024",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a504a6c31893801743",
+        "infection": "Meningococcal B",
+        "shots": [
+          {
+            "date": "21-02-2016",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "18-03-2016",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a504a6c31893801743",
+        "infection": "HPV",
+        "shots": [
+          {
+            "date": "02-07-2016",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "01-09-2016",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "23-12-2016",
+            "count": 3,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a504a6c31893801743",
+        "infection": "Varicella",
+        "shots": [
+          {
+            "date": "02-07-2018",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-04-26T19:01:53.753331Z"
+      },
+      "updated_on": {
+        "$date": "2025-04-26T19:01:53.753331Z"
+      },
+      "created_by": "685c1f1c04a6c31893801462",
+      "updated_by": "685c1f1c04a6c31893801462"
+    }
+  },
+  {
+    "patient_id": "685cf2a604a6c31893801772",
+    "vascular_access": {
+      "value": "AV Graft",
+      "created": "18-01-2025"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "76.7"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 30
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "389"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "713"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "36.2"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "35"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Single"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Rigid"
+      }
+    ],
+    "diagnosis": "Diabetic Nephropathy secondary to Type 2 Diabetes Mellitus (15-year duration), with chronic kidney disease Stage 5, diabetic retinopathy, and peripheral neuropathy",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a604a6c31893801772",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "24-08-2019",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "22-09-2019",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "20-02-2020",
+            "count": 3,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a604a6c31893801772",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "29-07-2023",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "14-07-2024",
+            "count": 2,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "21-06-2025",
+            "count": 3,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a604a6c31893801772",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "01-03-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "17-03-2021",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "28-08-2021",
+            "count": 3,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "22-02-2022",
+            "count": 4,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a604a6c31893801772",
+        "infection": "Pneumococcal",
+        "shots": [
+          {
+            "date": "05-09-2018",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "09-09-2019",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a604a6c31893801772",
+        "infection": "Tetanus/Tdap",
+        "shots": [
+          {
+            "date": "16-12-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "12-12-2031",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a604a6c31893801772",
+        "infection": "Meningococcal ACWY",
+        "shots": [
+          {
+            "date": "22-04-2016",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "28-04-2021",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a604a6c31893801772",
+        "infection": "Varicella",
+        "shots": [
+          {
+            "date": "04-07-2010",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a604a6c31893801772",
+        "infection": "Japanese Encephalitis",
+        "shots": [
+          {
+            "date": "04-08-2023",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "27-08-2023",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a604a6c31893801772",
+        "infection": "Typhoid",
+        "shots": [
+          {
+            "date": "27-11-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-04-29T19:01:53.753418Z"
+      },
+      "updated_on": {
+        "$date": "2025-04-29T19:01:53.753418Z"
+      },
+      "created_by": "685c1f9e04a6c318938014a4",
+      "updated_by": "685c1f9e04a6c318938014a4"
+    }
+  },
+  {
+    "patient_id": "685cf2a604a6c318938017a1",
+    "vascular_access": {
+      "value": "Perm Catheter",
+      "created": "17-03-2025"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "46.9"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "365"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "508"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "36.2"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "25"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Single"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Free"
+      }
+    ],
+    "diagnosis": "Chronic Interstitial Nephritis, likely analgesic-induced, with chronic kidney disease Stage 5 and history of chronic pain syndrome",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a604a6c318938017a1",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "07-11-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "09-12-2021",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "08-05-2022",
+            "count": 3,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a604a6c318938017a1",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "05-06-2023",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "11-07-2024",
+            "count": 2,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "07-07-2025",
+            "count": 3,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a604a6c318938017a1",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "01-12-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "20-12-2021",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "28-05-2022",
+            "count": 3,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "07-12-2022",
+            "count": 4,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a604a6c318938017a1",
+        "infection": "Pneumococcal",
+        "shots": [
+          {
+            "date": "14-02-2016",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "15-02-2017",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a604a6c318938017a1",
+        "infection": "Tetanus/Tdap",
+        "shots": [
+          {
+            "date": "15-05-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "06-05-2031",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a604a6c318938017a1",
+        "infection": "Meningococcal ACWY",
+        "shots": [
+          {
+            "date": "07-11-2015",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "05-11-2020",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a604a6c318938017a1",
+        "infection": "Shingles/Zoster",
+        "shots": [
+          {
+            "date": "17-09-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "20-11-2024",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a604a6c318938017a1",
+        "infection": "Varicella",
+        "shots": [
+          {
+            "date": "07-07-1997",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "08-08-1997",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-03-29T19:01:53.753500Z"
+      },
+      "updated_on": {
+        "$date": "2025-03-29T19:01:53.753500Z"
+      },
+      "created_by": "685c1ef404a6c3189380144c",
+      "updated_by": "685c1ef404a6c3189380144c"
+    }
+  },
+  {
+    "patient_id": "685cf2a704a6c318938017d0",
+    "vascular_access": {
+      "value": "AV Fistula",
+      "created": "23-04-2025"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "55.3"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "491"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "716"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "35.9"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "32"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Multi"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Regular (Systemic)"
+      }
+    ],
+    "diagnosis": "Diabetic Nephropathy secondary to Type 2 Diabetes Mellitus (20+ year duration), with chronic kidney disease Stage 5, coronary artery disease, and diabetic foot ulcers",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a704a6c318938017d0",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "04-09-2015",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "11-10-2015",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "03-03-2016",
+            "count": 3,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a704a6c318938017d0",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "11-07-2023",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "30-06-2024",
+            "count": 2,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "02-07-2025",
+            "count": 3,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a704a6c318938017d0",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "30-12-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "13-01-2022",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "02-07-2022",
+            "count": 3,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "24-12-2022",
+            "count": 4,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a704a6c318938017d0",
+        "infection": "Pneumococcal",
+        "shots": [
+          {
+            "date": "26-04-2016",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "03-05-2017",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a704a6c318938017d0",
+        "infection": "Tetanus/Tdap",
+        "shots": [
+          {
+            "date": "28-08-2019",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "28-08-2029",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a704a6c318938017d0",
+        "infection": "RSV",
+        "shots": [
+          {
+            "date": "25-08-2023",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a704a6c318938017d0",
+        "infection": "Shingles/Zoster",
+        "shots": [
+          {
+            "date": "21-07-2023",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "19-09-2023",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a704a6c318938017d0",
+        "infection": "Typhoid",
+        "shots": [
+          {
+            "date": "25-04-2023",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-14T19:01:53.753610Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-14T19:01:53.753610Z"
+      },
+      "created_by": "685c1f9e04a6c318938014a4",
+      "updated_by": "685c1f9e04a6c318938014a4"
+    }
+  },
+  {
+    "patient_id": "685cf2a804a6c318938017ff",
+    "vascular_access": {
+      "value": "Femoral Catheter",
+      "created": "20-11-2024"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "51.3"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "395"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "746"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "37.3"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "35"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Multi"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Free"
+      }
+    ],
+    "diagnosis": "Systemic Lupus Erythematosus with Class IV Lupus Nephritis, chronic kidney disease Stage 5, requiring immunosuppressive therapy",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a804a6c318938017ff",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "07-01-2019",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "31-01-2019",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "10-07-2019",
+            "count": 3,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a804a6c318938017ff",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "19-07-2023",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "12-07-2024",
+            "count": 2,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "05-06-2025",
+            "count": 3,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a804a6c318938017ff",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "14-02-2022",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "01-03-2022",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "18-08-2022",
+            "count": 3,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "13-02-2023",
+            "count": 4,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a804a6c318938017ff",
+        "infection": "Pneumococcal",
+        "shots": [
+          {
+            "date": "28-02-2017",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "05-03-2018",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a804a6c318938017ff",
+        "infection": "Tetanus/Tdap",
+        "shots": [
+          {
+            "date": "11-05-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "13-05-2031",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a804a6c318938017ff",
+        "infection": "Meningococcal ACWY",
+        "shots": [
+          {
+            "date": "15-09-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "07-09-2026",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a804a6c318938017ff",
+        "infection": "Meningococcal B",
+        "shots": [
+          {
+            "date": "05-11-2018",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "28-11-2018",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a804a6c318938017ff",
+        "infection": "Hepatitis A",
+        "shots": [
+          {
+            "date": "02-02-2016",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-02-02T19:01:53.753692Z"
+      },
+      "updated_on": {
+        "$date": "2025-02-02T19:01:53.753692Z"
+      },
+      "created_by": "685c1f9e04a6c318938014a4",
+      "updated_by": "685c1f9e04a6c318938014a4"
+    }
+  },
+  {
+    "patient_id": "685cf2a904a6c3189380182e",
+    "vascular_access": {
+      "value": "AV Fistula",
+      "created": "10-09-2024"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "58.6"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "452"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "677"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "36.8"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "28"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Single"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Rigid"
+      }
+    ],
+    "diagnosis": "Hypertensive Nephrosclerosis with chronic kidney disease Stage 5, long-standing hypertension (20+ years), left ventricular hypertrophy",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a904a6c3189380182e",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "02-10-2019",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "03-11-2019",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "05-04-2020",
+            "count": 3,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a904a6c3189380182e",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "24-07-2023",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "28-06-2024",
+            "count": 2,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "28-06-2025",
+            "count": 3,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a904a6c3189380182e",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "30-06-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "20-07-2021",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "27-12-2021",
+            "count": 3,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "01-07-2022",
+            "count": 4,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a904a6c3189380182e",
+        "infection": "Pneumococcal",
+        "shots": [
+          {
+            "date": "04-06-2017",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "02-06-2018",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a904a6c3189380182e",
+        "infection": "Tetanus/Tdap",
+        "shots": [
+          {
+            "date": "02-01-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "03-01-2034",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a904a6c3189380182e",
+        "infection": "Meningococcal ACWY",
+        "shots": [
+          {
+            "date": "15-03-2023",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "17-03-2028",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a904a6c3189380182e",
+        "infection": "MMR",
+        "shots": [
+          {
+            "date": "04-07-2008",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2a904a6c3189380182e",
+        "infection": "Typhoid",
+        "shots": [
+          {
+            "date": "04-10-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-01-27T19:01:53.753769Z"
+      },
+      "updated_on": {
+        "$date": "2025-01-27T19:01:53.753769Z"
+      },
+      "created_by": "685c1f3104a6c3189380146d",
+      "updated_by": "685c1f3104a6c3189380146d"
+    }
+  },
+  {
+    "patient_id": "685cf2aa04a6c3189380185d",
+    "vascular_access": {
+      "value": "Internal Jugular Vein (IJV)",
+      "created": "13-08-2024"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "50.9"
+    },
+    "dialysis_runtime": {
+      "hours": 4,
+      "minutes": 30
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "365"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "753"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "37.3"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "30"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Single"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Rigid"
+      }
+    ],
+    "diagnosis": "Hypertensive Nephrosclerosis with chronic kidney disease Stage 5, diastolic heart failure, and history of stroke",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380185d",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "04-09-2018",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "04-10-2018",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "03-03-2019",
+            "count": 3,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380185d",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "04-07-2023",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "13-06-2024",
+            "count": 2,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "03-07-2025",
+            "count": 3,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380185d",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "01-10-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "28-10-2021",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "02-04-2022",
+            "count": 3,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "02-10-2022",
+            "count": 4,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380185d",
+        "infection": "Pneumococcal",
+        "shots": [
+          {
+            "date": "10-06-2019",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "16-06-2020",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380185d",
+        "infection": "Tetanus/Tdap",
+        "shots": [
+          {
+            "date": "09-11-2017",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "01-11-2027",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380185d",
+        "infection": "Meningococcal ACWY",
+        "shots": [
+          {
+            "date": "11-03-2022",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "12-03-2027",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380185d",
+        "infection": "Shingles/Zoster",
+        "shots": [
+          {
+            "date": "10-12-2023",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "04-02-2024",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380185d",
+        "infection": "MMR",
+        "shots": [
+          {
+            "date": "09-07-1991",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380185d",
+        "infection": "Varicella",
+        "shots": [
+          {
+            "date": "09-07-1990",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380185d",
+        "infection": "Hepatitis A",
+        "shots": [
+          {
+            "date": "11-12-2023",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "01-06-2024",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-04-11T19:01:53.753945Z"
+      },
+      "updated_on": {
+        "$date": "2025-04-11T19:01:53.753945Z"
+      },
+      "created_by": "685c1f8904a6c31893801499",
+      "updated_by": "685c1f8904a6c31893801499"
+    }
+  },
+  {
+    "patient_id": "685cf2aa04a6c3189380188c",
+    "vascular_access": {
+      "value": "AV Fistula",
+      "created": "31-07-2024"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "83.6"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "324"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "710"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "35.2"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "28"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Multi"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Free"
+      }
+    ],
+    "diagnosis": "Diabetic Nephropathy secondary to Type 2 Diabetes Mellitus (15-year duration), with chronic kidney disease Stage 5, diabetic retinopathy, and peripheral neuropathy",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380188c",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "29-09-2017",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "01-11-2017",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "31-03-2018",
+            "count": 3,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380188c",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "07-07-2023",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "05-07-2024",
+            "count": 2,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "26-06-2025",
+            "count": 3,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380188c",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "04-05-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "19-05-2021",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "26-10-2021",
+            "count": 3,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "03-05-2022",
+            "count": 4,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380188c",
+        "infection": "Pneumococcal",
+        "shots": [
+          {
+            "date": "02-03-2017",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "05-03-2018",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380188c",
+        "infection": "Tetanus/Tdap",
+        "shots": [
+          {
+            "date": "16-07-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "13-07-2031",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380188c",
+        "infection": "MMR",
+        "shots": [
+          {
+            "date": "06-07-2001",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380188c",
+        "infection": "Varicella",
+        "shots": [
+          {
+            "date": "06-07-2000",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "06-08-2000",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380188c",
+        "infection": "Hepatitis A",
+        "shots": [
+          {
+            "date": "12-06-2018",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2aa04a6c3189380188c",
+        "infection": "Typhoid",
+        "shots": [
+          {
+            "date": "19-09-2022",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-06-20T19:01:53.754043Z"
+      },
+      "updated_on": {
+        "$date": "2025-06-20T19:01:53.754043Z"
+      },
+      "created_by": "685c1f8904a6c31893801499",
+      "updated_by": "685c1f8904a6c31893801499"
+    }
+  },
+  {
+    "patient_id": "685cf2ab04a6c318938018bb",
+    "vascular_access": {
+      "value": "AV Fistula",
+      "created": "13-11-2024"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "65.8"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 30
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "370"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "609"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "36.5"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "26"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Multi"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Regular (Systemic)"
+      }
+    ],
+    "diagnosis": "Autosomal Dominant Polycystic Kidney Disease (ADPKD) with massive bilateral kidney enlargement, chronic pain, and recurrent UTIs",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ab04a6c318938018bb",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "09-08-2017",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "13-09-2017",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "29-01-2018",
+            "count": 3,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ab04a6c318938018bb",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "23-07-2023",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "29-06-2024",
+            "count": 2,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "13-06-2025",
+            "count": 3,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ab04a6c318938018bb",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "17-05-2021",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "03-06-2021",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "18-11-2021",
+            "count": 3,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "21-05-2022",
+            "count": 4,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ab04a6c318938018bb",
+        "infection": "Pneumococcal",
+        "shots": [
+          {
+            "date": "17-01-2020",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "14-01-2021",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ab04a6c318938018bb",
+        "infection": "Tetanus/Tdap",
+        "shots": [
+          {
+            "date": "21-07-2020",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "21-07-2030",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ab04a6c318938018bb",
+        "infection": "Meningococcal ACWY",
+        "shots": [
+          {
+            "date": "11-01-2018",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "08-01-2023",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ab04a6c318938018bb",
+        "infection": "MMR",
+        "shots": [
+          {
+            "date": "04-07-2008",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ab04a6c318938018bb",
+        "infection": "Varicella",
+        "shots": [
+          {
+            "date": "03-07-2012",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "28-07-2012",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ab04a6c318938018bb",
+        "infection": "Hepatitis A",
+        "shots": [
+          {
+            "date": "23-10-2022",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ab04a6c318938018bb",
+        "infection": "Typhoid",
+        "shots": [
+          {
+            "date": "26-02-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-02-17T19:01:53.754317Z"
+      },
+      "updated_on": {
+        "$date": "2025-02-17T19:01:53.754317Z"
+      },
+      "created_by": "685c1f7404a6c3189380148e",
+      "updated_by": "685c1f7404a6c3189380148e"
+    }
+  },
+  {
+    "patient_id": "685cf2ac04a6c318938018ea",
+    "vascular_access": {
+      "value": "AV Fistula",
+      "created": "20-01-2025"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "78.7"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "374"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "636"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "37.0"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "35"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Multi"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Regular (Systemic)"
+      }
+    ],
+    "diagnosis": "Diabetic Nephropathy secondary to Type 2 Diabetes Mellitus (20+ year duration), with chronic kidney disease Stage 5, coronary artery disease, and diabetic foot ulcers",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ac04a6c318938018ea",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "08-12-2020",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "13-01-2021",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "11-06-2021",
+            "count": 3,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ac04a6c318938018ea",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "14-06-2023",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "18-07-2024",
+            "count": 2,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "17-07-2025",
+            "count": 3,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ac04a6c318938018ea",
+        "infection": "Pneumococcal",
+        "shots": [
+          {
+            "date": "04-03-2023",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "08-03-2024",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ac04a6c318938018ea",
+        "infection": "Tetanus/Tdap",
+        "shots": [
+          {
+            "date": "23-11-2022",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "25-11-2032",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ac04a6c318938018ea",
+        "infection": "Meningococcal ACWY",
+        "shots": [
+          {
+            "date": "06-10-2019",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "30-09-2024",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ac04a6c318938018ea",
+        "infection": "RSV",
+        "shots": [
+          {
+            "date": "09-01-2025",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ac04a6c318938018ea",
+        "infection": "Shingles/Zoster",
+        "shots": [
+          {
+            "date": "16-02-2025",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "17-04-2025",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ac04a6c318938018ea",
+        "infection": "Hepatitis A",
+        "shots": [
+          {
+            "date": "20-07-2019",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "09-01-2020",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-05-11T19:01:53.754482Z"
+      },
+      "updated_on": {
+        "$date": "2025-05-11T19:01:53.754482Z"
+      },
+      "created_by": "685c1fbe04a6c318938014af",
+      "updated_by": "685c1fbe04a6c318938014af"
+    }
+  },
+  {
+    "patient_id": "685cf2ad04a6c31893801919",
+    "vascular_access": {
+      "value": "AV Fistula",
+      "created": "04-04-2025"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "62.6"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "335"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "753"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "37.2"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "30"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Single"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Free"
+      }
+    ],
+    "diagnosis": "Autosomal Dominant Polycystic Kidney Disease (ADPKD) with massive bilateral kidney enlargement, chronic pain, and recurrent UTIs",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ad04a6c31893801919",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "01-04-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "06-05-2024",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "01-10-2024",
+            "count": 3,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ad04a6c31893801919",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "06-06-2023",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "24-06-2024",
+            "count": 2,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "29-07-2025",
+            "count": 3,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ad04a6c31893801919",
+        "infection": "Pneumococcal",
+        "shots": [
+          {
+            "date": "28-09-2019",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "22-09-2020",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ad04a6c31893801919",
+        "infection": "Tetanus/Tdap",
+        "shots": [
+          {
+            "date": "07-11-2018",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "02-11-2028",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ad04a6c31893801919",
+        "infection": "Meningococcal ACWY",
+        "shots": [
+          {
+            "date": "28-04-2024",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "04-05-2029",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ad04a6c31893801919",
+        "infection": "MMR",
+        "shots": [
+          {
+            "date": "05-07-2005",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2ad04a6c31893801919",
+        "infection": "Typhoid",
+        "shots": [
+          {
+            "date": "13-04-2020",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-02-02T19:01:53.754560Z"
+      },
+      "updated_on": {
+        "$date": "2025-02-02T19:01:53.754560Z"
+      },
+      "created_by": "685c1f9e04a6c318938014a4",
+      "updated_by": "685c1f9e04a6c318938014a4"
+    }
+  },
+  {
+    "patient_id": "685cf2e704a6c31893801948",
+    "vascular_access": {
+      "value": "Femoral Catheter",
+      "created": "14-11-2024"
+    },
+    "dry_weight": {
+      "code": "DRYWT",
+      "name": "Dry Weight",
+      "units": {
+        "unit": "Kg",
+        "ucum_code": null,
+        "is_default": null,
+        "ref_value": null,
+        "ref_range": null,
+        "format": null
+      },
+      "value": "64.3"
+    },
+    "dialysis_runtime": {
+      "hours": 3,
+      "minutes": 0
+    },
+    "prescription_params": [
+      {
+        "code": "QBLD",
+        "name": "Quantum of blood",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 300,
+            "max": 500,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "409"
+      },
+      {
+        "code": "QDLST",
+        "name": "Quantum of dialysate",
+        "units": {
+          "unit": "ml/hr",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 500,
+            "max": 800,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "530"
+      },
+      {
+        "code": "DLSTTEMP",
+        "name": "Dialysate temperature",
+        "units": {
+          "unit": "\u02dac",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 35,
+            "max": 37.5,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "36.6"
+      },
+      {
+        "code": "BICON",
+        "name": "Bicarb Concentration",
+        "units": {
+          "unit": "mmol/l",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": 24,
+            "max": 35,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "33"
+      },
+      {
+        "code": "DLZRUSE",
+        "name": "Dialyzer Use",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Single"
+      },
+      {
+        "code": "HEPTYPE",
+        "name": "Heparin Type",
+        "units": {
+          "unit": "",
+          "ucum_code": null,
+          "is_default": null,
+          "ref_value": null,
+          "ref_range": {
+            "min": null,
+            "max": null,
+            "systolic": null,
+            "diastolic": null
+          },
+          "format": null
+        },
+        "value": "Free"
+      }
+    ],
+    "diagnosis": "Hypertensive Nephrosclerosis with chronic kidney disease Stage 5, long-standing hypertension (20+ years), left ventricular hypertrophy",
+    "vaccination": [
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2e704a6c31893801948",
+        "infection": "Hepatitis B",
+        "shots": [
+          {
+            "date": "05-08-2020",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "01-09-2020",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "25-01-2021",
+            "count": 3,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2e704a6c31893801948",
+        "infection": "Influenza",
+        "shots": [
+          {
+            "date": "02-06-2023",
+            "count": 1,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "15-06-2024",
+            "count": 2,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "30-07-2025",
+            "count": 3,
+            "kind": "Annual",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2e704a6c31893801948",
+        "infection": "COVID-19",
+        "shots": [
+          {
+            "date": "08-03-2022",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "02-04-2022",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "06-09-2022",
+            "count": 3,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "13-03-2023",
+            "count": 4,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2e704a6c31893801948",
+        "infection": "Pneumococcal",
+        "shots": [
+          {
+            "date": "01-09-2016",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "01-09-2017",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2e704a6c31893801948",
+        "infection": "Tetanus/Tdap",
+        "shots": [
+          {
+            "date": "08-03-2023",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "28-02-2033",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2e704a6c31893801948",
+        "infection": "Meningococcal ACWY",
+        "shots": [
+          {
+            "date": "26-08-2016",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "24-08-2021",
+            "count": 2,
+            "kind": "Booster",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2e704a6c31893801948",
+        "infection": "Shingles/Zoster",
+        "shots": [
+          {
+            "date": "04-01-2025",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          },
+          {
+            "date": "11-03-2025",
+            "count": 2,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2e704a6c31893801948",
+        "infection": "MMR",
+        "shots": [
+          {
+            "date": "06-07-2000",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2e704a6c31893801948",
+        "infection": "Varicella",
+        "shots": [
+          {
+            "date": "07-07-1999",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "version": null,
+        "patientId": "685cf2e704a6c31893801948",
+        "infection": "Hepatitis A",
+        "shots": [
+          {
+            "date": "03-06-2018",
+            "count": 1,
+            "kind": "Primary",
+            "user_id": null,
+            "org_id": null
+          }
+        ]
+      }
+    ],
+    "audit": {
+      "created_on": {
+        "$date": "2025-03-06T19:01:53.754655Z"
+      },
+      "updated_on": {
+        "$date": "2025-03-06T19:01:53.754655Z"
+      },
+      "created_by": "685c1fbe04a6c318938014af",
+      "updated_by": "685c1fbe04a6c318938014af"
+    }
+  }
+]

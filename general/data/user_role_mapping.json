@@ -1,0 +1,14 @@
+[
+  { "name": "NAGOMI", "role": "dc_incharge" },
+  { "name": "SARALA", "role": "dc_sr_staff_nurse" },
+  { "name": "VIDHYA", "role": "dc_sr_staff_nurse" },
+  { "name": "SELVARANI", "role": "dc_sr_staff_nurse" },
+  { "name": "SASIKALA", "role": "dc_sr_staff_nurse" },
+  { "name": "PRIYANKA", "role": "dc_staff_nurse" },
+  { "name": "TAMIL SELVI", "role": "dc_staff_nurse" },
+  { "name": "BHARATHI", "role": "dc_staff_nurse" },
+  { "name": "LAVANYA", "role": "dc_staff_nurse" },
+  { "name": "NANDHINI", "role": "dc_staff_nurse" },
+  { "name": "ENIT FLUTTON", "role": "dc_tech" },
+  { "name": "RAVICHANDRAN", "role": "dc_tech" }
+] 

@@ -1,0 +1,156 @@
+[
+    {
+      "version": "1.0",
+      "orgId": "685005ce50ffc4656f440162",
+      "code": "BED_1",
+      "label": "BED 1",
+      "status": "active",
+      "audit": {
+        "createdBy": "system",
+        "createdOn": "1743152938018"
+      }
+    },
+    {
+      "version": "1.0",
+      "orgId": "685005ce50ffc4656f440162",
+      "code": "BED_2",
+      "label": "BED 2",
+      "status": "active",
+      "audit": {
+        "createdBy": "system",
+        "createdOn": "1743152938018"
+      }
+    },
+    {
+      "version": "1.0",
+      "orgId": "685005ce50ffc4656f440162",
+      "code": "BED_3",
+      "label": "BED 3",
+      "status": "active",
+      "audit": {
+        "createdBy": "system",
+        "createdOn": "1743152938018"
+      }
+    },
+    {
+      "version": "1.0",
+      "orgId": "685005ce50ffc4656f440162",
+      "code": "BED_4",
+      "label": "BED 4",
+      "status": "active",
+      "audit": {
+        "createdBy": "system",
+        "createdOn": "1743152938018"
+      }
+    },
+    {
+      "version": "1.0",
+      "orgId": "685005ce50ffc4656f440162",
+      "code": "BED_5",
+      "label": "BED 5",
+      "status": "active",
+      "audit": {
+        "createdBy": "system",
+        "createdOn": "1743152938018"
+      }
+    },
+    {
+      "version": "1.0",
+      "orgId": "685005ce50ffc4656f440162",
+      "code": "BED_6",
+      "label": "BED 6",
+      "status": "active",
+      "audit": {
+        "createdBy": "system",
+        "createdOn": "1743152938018"
+      }
+    },
+    {
+      "version": "1.0",
+      "orgId": "685005ce50ffc4656f440162",
+      "code": "BED_7",
+      "label": "BED 7",
+      "status": "active",
+      "audit": {
+        "createdBy": "system",
+        "createdOn": "1743152938018"
+      }
+    },
+    {
+      "version": "1.0",
+      "orgId": "685005ce50ffc4656f440162",
+      "code": "BED_8",
+      "label": "BED 8",
+      "status": "active",
+      "audit": {
+        "createdBy": "system",
+        "createdOn": "1743152938018"
+      }
+    },
+    {
+      "version": "1.0",
+      "orgId": "685005ce50ffc4656f440162",
+      "code": "BED_9",
+      "label": "BED 9",
+      "status": "active",
+      "audit": {
+        "createdBy": "system",
+        "createdOn": "1743152938018"
+      }
+    },
+    {
+      "version": "1.0",
+      "orgId": "685005ce50ffc4656f440162",
+      "code": "BED_10",
+      "label": "BED 10",
+      "status": "active",
+      "audit": {
+        "createdBy": "system",
+        "createdOn": "1743152938018"
+      }
+    },
+    {
+      "version": "1.0",
+      "orgId": "685005ce50ffc4656f440162",
+      "code": "BED_11",
+      "label": "BED 11",
+      "status": "active",
+      "audit": {
+        "createdBy": "system",
+        "createdOn": "1743152938018"
+      }
+    },
+    {
+      "version": "1.0",
+      "orgId": "685005ce50ffc4656f440162",
+      "code": "BED_12",
+      "label": "BED 12",
+      "status": "active",
+      "audit": {
+        "createdBy": "system",
+        "createdOn": "1743152938018"
+      }
+    },
+    {
+      "version": "1.0",
+      "orgId": "685005ce50ffc4656f440162",
+      "code": "BED_13",
+      "label": "BED 13",
+      "status": "active",
+      "audit": {
+        "createdBy": "system",
+        "createdOn": "1743152938018"
+      }
+    },
+    {
+      "version": "1.0",
+      "orgId": "685005ce50ffc4656f440162",
+      "code": "BED_14",
+      "label": "BED 14 (Isolation)",
+      "status": "active",
+      "audit": {
+        "createdBy": "system",
+        "createdOn": "1743152938018"
+      }
+    }
+  ]

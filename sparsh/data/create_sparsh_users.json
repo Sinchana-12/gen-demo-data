@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Lingaraju N",
+    "gender": "male",
+    "user_type": "incharge",
+    "specialization": "nephrology",
+    "phone": "+919743682076",
+    "email": "",
+    "emp_id": "80076",
+    "role": "Incharge",
+    "schema_version": "2"
+  },
+  {
+    "name": "Shwetha Kumari",
+    "gender": "female",
+    "user_type": "senior_staff_nurse",
+    "specialization": "nephrology",
+    "phone": "+918431415003",
+    "email": "",
+    "emp_id": "80110",
+    "role": "Senior Staff Nurse",
+    "schema_version": "2"
+  },
+  {
+    "name": "Manjula SG",
+    "gender": "female", 
+    "phone": "+919742464066",
+    "email": "manjula.sg@test.com",
+    "auth_handles": [
+      {
+        "id_provider": "google",
+        "auth_id": "manjula.sg@test.com"
+      }
+    ],
+    "teams": [
+      {
+        "team_id": "685005ce50ffc4656f440169",
+        "designation": "Senior Staff Nurse", 
+        "role": "dc_sr_staff_nurse"
+      }
+    ]
+  },
+  {
+    "name": "Bennet Biju",
+    "gender": "male",
+    "user_type": "staff_nurse",
+    "specialization": "nephrology",
+    "phone": "+919400786768",
+    "email": "",
+    "emp_id": "80410",
+    "role": "Staff Nurse",
+    "schema_version": "2"
+  },
+  {
+    "name": "Mahesh R",
+    "gender": "male",
+    "user_type": "senior_technician",
+    "specialization": "nephrology",
+    "phone": "+919738350621",
+    "email": "",
+    "emp_id": "80129",
+    "role": "Senior Technician",
+    "schema_version": "2"
+  },
+  {
+    "name": "Sumitha Lho",
+    "gender": "female",
+    "user_type": "technician",
+    "specialization": "nephrology",
+    "phone": "+919380344584",
+    "email": "",
+    "emp_id": "80118",
+    "role": "Technician",
+    "schema_version": "2"
+  },
+  {
+    "name": "Ramakala",
+    "gender": "female",
+    "user_type": "technician",
+    "specialization": "nephrology",
+    "phone": "+919343046056",
+    "email": "",
+    "emp_id": "80431",
+    "role": "Technician",
+    "schema_version": "2"
+  },
+  {
+    "name": "Chaithra KN",
+    "gender": "female",
+    "user_type": "technician",
+    "specialization": "nephrology",
+    "phone": "+917676957773",
+    "email": "",
+    "emp_id": "80456",
+    "role": "Technician",
+    "schema_version": "2"
+  },
+  {
+    "name": "Harish G",
+    "gender": "male",
+    "user_type": "technician",
+    "specialization": "nephrology",
+    "phone": "+919585063545",
+    "email": "",
+    "emp_id": "80461",
+    "role": "Technician",
+    "schema_version": "2"
+  },
+  {
+    "name": "Sneha Raj",
+    "gender": "female",
+    "user_type": "technician",
+    "specialization": "nephrology",
+    "phone": "+919945441491",
+    "email": "",
+    "emp_id": "80469",
+    "role": "Technician",
+    "schema_version": "2"
+  },
+  {
+    "name": "Suresh Babu",
+    "gender": "male",
+    "user_type": "technician",
+    "specialization": "nephrology",
+    "phone": "+917676876402",
+    "email": "",
+    "emp_id": "80499",
+    "role": "Technician",
+    "schema_version": "2"
+  },
+  {
+    "name": "Varshika NS",
+    "gender": "female",
+    "user_type": "technician",
+    "specialization": "nephrology",
+    "phone": "+918277467554",
+    "email": "",
+    "emp_id": "80503",
+    "role": "Technician",
+    "schema_version": "2"
+  }
+] 

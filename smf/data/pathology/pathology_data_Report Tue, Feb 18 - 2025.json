@@ -1,0 +1,715 @@
+[
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "Hemoglobin",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "14.0",
+    "units": "g/dL",
+    "reference_interval": "13.0 - 17.0",
+    "method": "photometric method",
+    "source": {
+      "page_index": 1,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971508Z"
+      }
+    },
+    "schema_version": "2.0"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "RBC Count",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "4.8",
+    "units": "",
+    "reference_interval": "4.5 - 5.5",
+    "method": "coulter principle",
+    "source": {
+      "page_index": 1,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971522Z"
+      }
+    },
+    "schema_version": "2.0"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "Hematocrit",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "42.7",
+    "units": "%",
+    "reference_interval": "40 - 50",
+    "method": "",
+    "source": {
+      "page_index": 1,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971527Z"
+      }
+    },
+    "schema_version": "2.0"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "MCV",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "88.6",
+    "units": "fL",
+    "reference_interval": "83 - 101",
+    "method": "Derived from RBC Histogram",
+    "source": {
+      "page_index": 1,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971534Z"
+      }
+    },
+    "schema_version": "2.0"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "MCH",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "29.0",
+    "units": "pg",
+    "reference_interval": "27 - 32",
+    "method": "Calculated",
+    "source": {
+      "page_index": 1,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971539Z"
+      }
+    },
+    "schema_version": "2.0"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "MCH",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "32.8",
+    "units": "g/dL",
+    "reference_interval": "31.5 - 34.5",
+    "method": "Calculated",
+    "source": {
+      "page_index": 1,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971543Z"
+      }
+    },
+    "schema_version": "2.0"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "RDW",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "13.7",
+    "units": "%",
+    "reference_interval": "11.6 - 14",
+    "method": "Derived from RBC Histogram",
+    "source": {
+      "page_index": 1,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971547Z"
+      }
+    },
+    "schema_version": "2.0"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "Total Leukocyte Count",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "4.7",
+    "units": "",
+    "reference_interval": "4.0 - 10.0",
+    "method": "coulter principle",
+    "source": {
+      "page_index": 1,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971551Z"
+      }
+    },
+    "schema_version": "2.0"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "Neutrophils",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "50.0",
+    "units": "%",
+    "reference_interval": "40-80",
+    "method": "",
+    "source": {
+      "page_index": 1,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971554Z"
+      }
+    },
+    "schema_version": "2.0"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "Lymphocytes",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "38.0",
+    "units": "%",
+    "reference_interval": "20-40",
+    "method": "",
+    "source": {
+      "page_index": 1,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971557Z"
+      }
+    },
+    "schema_version": "2.0"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "Monocytes",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "6.0",
+    "units": "%",
+    "reference_interval": "2-10",
+    "method": "",
+    "source": {
+      "page_index": 1,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971560Z"
+      }
+    },
+    "schema_version": "2.0"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "Eosinophils",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "6.0",
+    "units": "%",
+    "reference_interval": "1-6",
+    "method": "",
+    "source": {
+      "page_index": 1,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971563Z"
+      }
+    },
+    "schema_version": "2.0"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "Basophils",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "0.0",
+    "units": "%",
+    "reference_interval": "0-1",
+    "method": "",
+    "source": {
+      "page_index": 1,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971565Z"
+      }
+    },
+    "schema_version": "2.0"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "Absolute Neutrophil Count",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "2.35",
+    "units": "",
+    "reference_interval": "2.0-7.0",
+    "method": "VCSn/Calculated",
+    "source": {
+      "page_index": 1,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971569Z"
+      }
+    },
+    "schema_version": "2.0"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "Absolute Lymphocyte Count",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "1.79",
+    "units": "",
+    "reference_interval": "1.0-3.0",
+    "method": "VCSn/Calculated",
+    "source": {
+      "page_index": 1,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971573Z"
+      }
+    },
+    "schema_version": "2.0"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "Absolute Monocyte Count",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "0.28",
+    "units": "",
+    "reference_interval": "0.2 - 1.0",
+    "method": "",
+    "source": {
+      "page_index": 1,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971576Z"
+      }
+    },
+    "schema_version": "2.0"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "Absolute Eosinophil Count",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "0.28",
+    "units": "",
+    "reference_interval": "0.02-0.5",
+    "method": "VCSn/Calculated",
+    "source": {
+      "page_index": 1,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971581Z"
+      }
+    },
+    "schema_version": "2.0"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "Absolute Basophil Count",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "0.00",
+    "units": "",
+    "reference_interval": "0.02 - 0.1",
+    "method": "",
+    "source": {
+      "page_index": 1,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971585Z"
+      }
+    },
+    "schema_version": "2.0"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "Platelet Count",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "283",
+    "units": "",
+    "reference_interval": "150 - 410",
+    "method": "coulter principle",
+    "source": {
+      "page_index": 1,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971588Z"
+      }
+    },
+    "schema_version": "2.0"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "MPV",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "7.3",
+    "units": "L",
+    "reference_interval": "7.5 - 11.5",
+    "method": "",
+    "source": {
+      "page_index": 1,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971610Z"
+      }
+    },
+    "schema_version": "2.0"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "Glycated Hemoglobin",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "5.40",
+    "units": "%",
+    "reference_interval": "8.8-20.5",
+    "method": "TINIA",
+    "source": {
+      "page_index": 2,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971739Z"
+      }
+    },
+    "schema_version": "2.0"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "Creatinine",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "1.06",
+    "units": "mg/dL",
+    "reference_interval": "136 - 145",
+    "method": "Modified Jaffe Kinetic",
+    "source": {
+      "page_index": 3,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971746Z"
+      }
+    },
+    "schema_version": "2.0"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "patient": {
+      "$oid": ""
+    },
+    "parameter_id": {
+      "$oid": ""
+    },
+    "parameter_name": "Triglycerides",
+    "date": {
+      "$date": "2025-02-18T00:42:00.000Z"
+    },
+    "value": "77.6",
+    "units": "mg/dL",
+    "reference_interval": "2.5-4.5",
+    "method": "Enzymatic colorimetry",
+    "source": {
+      "page_index": 4,
+      "report": {
+        "$oid": ""
+      }
+    },
+    "audit": {
+      "created_on": {
+        "$date": "2025-07-03T17:21:27.971968Z"
+      }
+    },
+    "schema_version": "2.0"
+  }
+]
